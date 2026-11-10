@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="es-MX">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Monitor de Salud Monclova</title>
+<style>
+  :root{--az:#0b5394;--az2:#e8f1fa;--tx:#1d2b36;--gr:#5b6b78;--bd:#d5dfe8}
+  *{box-sizing:border-box}
+  body{margin:0;font:16px/1.5 system-ui,-apple-system,Segoe UI,Roboto,sans-serif;color:var(--tx);background:#f6f9fc}
+  header{background:var(--az);color:#fff;padding:20px 16px}
+  header h1{margin:0;font-size:1.5rem}
+  #actualizacion{margin:4px 0 0;opacity:.9;font-size:.9rem}
+  main{max-width:860px;margin:0 auto;padding:16px}
+  .tabs{display:flex;gap:8px;margin-bottom:12px;flex-wrap:wrap}
+  button{font:inherit;cursor:pointer}
+  .tab{flex:1;min-width:140px;padding:10px;border:1px solid var(--az);background:#fff;color:var(--az);border-radius:8px;font-weight:600}
+  .tab.activa{background:var(--az);color:#fff}
+  #buscador{width:100%;padding:10px;border:1px solid var(--bd);border-radius:8px;font:inherit}
+  .filtros{display:flex;flex-wrap:wrap;gap:6px;margin:10px 0 16px}
+  .chip{padding:4px 12px;border:1px solid var(--bd);background:#fff;border-radius:999px;font-size:.85rem;color:var(--gr)}
+  .chip.activa{background:var(--az2);border-color:var(--az);color:var(--az);font-weight:600}
+  .noticia{background:#fff;border:1px solid var(--bd);border-radius:10px;padding:12px 14px;margin-bottom:10px}
+  .noticia a{color:var(--az);font-weight:600;text-decoration:none}
+  .noticia a:hover{text-decoration:underline}
+  .meta{color:var(--gr);font-size:.85rem;margin-top:4px}
+  .etq{display:inline-block;background:var(--az2);color:var(--az);border-radius:6px;padding:1px 8px;font-size:.78rem;margin:6px 4px 0 0}
+  .aviso{background:#fff;border:1px dashed var(--bd);border-radius:10px;padding:20px;text-align:center;color:var(--gr)}
+  .error{border-color:#c0392b;color:#c0392b}
+  footer{max-width:860px;margin:0 auto;padding:16px;color:var(--gr);font-size:.82rem}
+</style>
+</head>
+<body>
+<header>
+  <h1>Monitor de Salud Monclova</h1>
+  <p id="actualizacion">Última actualización: cargando…</p>
+</header>
+<main>
+  <div class="tabs">
+    <button class="tab activa" data-grupo="A">Medicamentos y desabasto</button>
+    <button class="tab" data-grupo="B">Salud en Monclova</button>
+  </div>
+  <input id="buscador" type="search" placeholder="Buscar en las noticias…" aria-label="Buscar">
+  <div class="filtros" id="filtros"></div>
+  <div id="lista"></div>
+</main>
+<footer>Las noticias provienen de fuentes públicas y pueden estar incompletas o desactualizadas. Verifica la información con la fuente original o con COFEPRIS y la Secretaría de Salud antes de tomar decisiones.</footer>
+<script>
+const CATEGORIAS = ["desabasto","alerta sanitaria","Monclova","salud general"];
+let noticias = [], grupo = "A", categoria = null;
+const $ = id => document.getElementById(id);
+
+// Fecha relativa en español: "hace 2 días"
+function relativa(iso){
+  const min = Math.max(0, Math.floor((Date.now() - new Date(iso)) / 60000));
+  const u = (n, s, p) => `hace ${n} ${n === 1 ? s : p}`;
+  if (min < 60) return u(min, "minuto", "minutos");
+  if (min < 1440) return u(Math.floor(min/60), "hora", "horas");
+  return u(Math.floor(min/1440), "día", "días");
+}
+function el(tag, cls, txt){ const e = document.createElement(tag); if (cls) e.className = cls; if (txt) e.textContent = txt; return e; }
+
+function pintarFiltros(){
+  const cont = $("filtros"); cont.replaceChildren();
+  [null, ...CATEGORIAS].forEach(c => {
+    const b = el("button", "chip" + (c === categoria ? " activa" : ""), c || "Todas");
+    b.onclick = () => { categoria = c; pintar(); };
+    cont.appendChild(b);
+  });
+}
+function pintar(){
+  pintarFiltros();
+  const q = $("buscador").value.trim().toLowerCase();
+  const lista = $("lista"); lista.replaceChildren();
+  const vis = noticias.filter(n => n.grupo === grupo
+    && (!categoria || n.categorias.includes(categoria))
+    && (!q || (n.titulo + " " + n.fuente).toLowerCase().includes(q)));
+  if (!vis.length){
+    lista.appendChild(el("div", "aviso", noticias.length
+      ? "No hay noticias que coincidan con la búsqueda o el filtro."
+      : "Aún no hay noticias. Ejecuta el flujo de GitHub Actions para generar datos.json."));
+    return;
+  }
+  vis.forEach(n => {
+    const d = el("div", "noticia");
+    const a = el("a", null, n.titulo); a.href = n.enlace; a.target = "_blank"; a.rel = "noopener noreferrer";
+    d.appendChild(a);
+    d.appendChild(el("div", "meta", `${n.fuente} · ${relativa(n.fecha)}`));
+    n.categorias.forEach(c => d.appendChild(el("span", "etq", c)));
+    lista.appendChild(d);
+  });
+}
+document.querySelectorAll(".tab").forEach(b => b.onclick = () => {
+  document.querySelectorAll(".tab").forEach(t => t.classList.remove("activa"));
+  b.classList.add("activa"); grupo = b.dataset.grupo; categoria = null; pintar();
+});
+$("buscador").addEventListener("input", pintar);
+
+fetch("datos.json", {cache: "no-store"})
+  .then(r => { if (!r.ok) throw new Error(r.status); return r.json(); })
+  .then(d => {
+    noticias = d.noticias || [];
+    $("actualizacion").textContent = "Última actualización: " + (d.ultima_actualizacion
+      ? new Date(d.ultima_actualizacion).toLocaleString("es-MX", {dateStyle:"long", timeStyle:"short", timeZone:"America/Monterrey"})
+      : "aún sin datos");
+    pintar();
+  })
+  .catch(() => {
+    $("actualizacion").textContent = "Última actualización: no disponible";
+    $("lista").appendChild(el("div", "aviso error", "No se pudo cargar datos.json. Si abriste el archivo directamente desde tu computadora, el navegador lo bloquea: usa la dirección de GitHub Pages o un servidor local (python3 -m http.server)."));
+  });
+</script>
+</body>
+</html>
