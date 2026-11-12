@@ -1,6 +1,541 @@
 {
-  "ultima_actualizacion": "2026-11-11T06:50-06:00",
+  "ultima_actualizacion": "2026-11-12T06:53-06:00",
   "noticias": [
+    {
+      "id": "ee18c4cdfc61",
+      "titulo": "Alerta en Monclova por casos de mano-pie-boca; piden reforzar vigilancia en guarderías",
+      "fuente": "PostaMx",
+      "fecha": "2026-11-12T05:12-06:00",
+      "enlace": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNSGQ1UlYzdnl4bzE3cHpubWdFOGdNTUxWYlBnSEVqX0lINlY0bThZZFRIdWpmV0ZjR1BlcjZGZWdVWmc4Qko1a3RxdmVDTU85RzM2bS1NZmppVEZsTTFNWHJoc1lUOFluWnJzOF91ZkVxb2dXMzA0dGZnQk1ZTEVHWERGZ0hTZmpaN0NsbmNFSlpMNFkxbVBRQ0FlYWNwLXY3SGszd0NRUUkzWVppcS1XUDJ4U09RckkxdF9ETW9hSTNOdzVfQ0E4btIBzgFBVV95cUxOV1RlTjYtNno1b1ZOZ3M2Wnc3MF9mRWZTV2Zwb3MxUEI4UlVJRHNsYW9NQlRrd3dmRGRQSXZDczIzYUFFV2ZEZ19KWTRieXk5R2dvVzRscVJ2dF8weHF2dzBhMmxMUEJ1TkJ5WUtROTJDdmw4bHFRdXhYMVp3eHJaOUdneWhOb2lyQllkRGRNal9FTVp3c0lfeVZyNExvd0FUQld2M2NmREk5YmpuQ3hwdGhseVJNRFFlVmJTT09tUDVKblZZYmJzdjhhWXZKdw?oc=5",
+      "grupo": "B",
+      "categorias": [
+        "Monclova",
+        "alerta sanitaria",
+        "salud general"
+      ]
+    },
+    {
+      "id": "f623938c7c6f",
+      "titulo": "Brote viral acecha guarderías de Monclova",
+      "fuente": "Periódico Zócalo",
+      "fecha": "2026-11-12T04:00-06:00",
+      "enlace": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1lR2dqSThmQjcwLWRxOG1NR3h1X3p1Y0xDWDc3TjZKYjJYTW5xY1ctMFNZSTBHbjRPN1RVaTBwSXM1eUd4aU1vQVUwMXl2d1ltRklRdWJLLTRFOHY2YTRXZEVsZVVsUQ?oc=5",
+      "grupo": "B",
+      "categorias": [
+        "Monclova",
+        "alerta sanitaria",
+        "salud general"
+      ]
+    },
+    {
+      "id": "92fbd05bb033",
+      "titulo": "Monclova será sede del Foro Nacional de Ingeniería Clínica",
+      "fuente": "El Horizonte",
+      "fecha": "2026-11-12T01:11-06:00",
+      "enlace": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQYnBoYmktLUJhR1cxR2IxbjRDeWpuYk1DU2x1bWtGQWo4dmVnSWtmN1lyelBZSjR6V09nLXZ3cmd4UlB4VUplNVJodXhqQ3BLSGNTNEliMVZITDdzN0lGazV5enVtU2JsNnE0UWpRWU9HeUlxZmJHRzlWeTFhR3Z5OXdCVEdjVWpjakFOY2g5Wl9fdTRJckdKMlR5bkg1YXJIdE04Q1owMm8?oc=5",
+      "grupo": "B",
+      "categorias": [
+        "Monclova",
+        "salud general"
+      ]
+    },
+    {
+      "id": "481f7aea0eeb",
+      "titulo": "IMSS habilita plataforma para reportar medicamentos no surtidos en San Luis Potosí",
+      "fuente": "El Sol de México",
+      "fecha": "2026-11-12T00:13-06:00",
+      "enlace": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPRmFwWDhGdXhMdzZjQm1La2pWSFFuYWZBUzhhT0pleU5fN0xVY1J0NTVQUTJHd2c3TEtWUDNSaXkwd080SklLYnl5bW1fWWFhV2cxOUZaYXhLeXg5eDZ2TEMzRW9tc3QwbmlWOHBqck1zd3djVHVJQWx5bzRTUEx2VGNIT3c2V1U0S0dvaTNPSnJodEpadWUxN3o4NlJxRHF5YXQ2MzFKdmNFaHAzdDNQUTl2eUtkM3Q1WHhLQVNTcVBPYlZUYU5oQnc4TQ?oc=5",
+      "grupo": "A",
+      "categorias": [
+        "salud general"
+      ]
+    },
+    {
+      "id": "94eb9acc3dfd",
+      "titulo": "AUMENTO salarial no resuelve desabasto ni carencias del IMSS",
+      "fuente": "El Sol de Chiapas",
+      "fecha": "2026-11-11T23:19-06:00",
+      "enlace": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOZWdTN2FHV1JlOE5yT2s3NERhZE54d01URGNESEZQaEZXOC1MaTRwTklHcklVYUtPdm1vUTVGcUExZHhxUW5xUE5MbU5fazctNXR0dHNQVFlia0d6THpseDJNelh0azFxY0NqQm93aklUUzA1WkdRN0M3M0tXdzUwSXhJdUVIcDdETVdHdmtGa0YzZw?oc=5",
+      "grupo": "A",
+      "categorias": [
+        "desabasto",
+        "salud general"
+      ]
+    },
+    {
+      "id": "44abece412b4",
+      "titulo": "Persisten largas esperas para recibir atención médica en el IMSS de Monclova",
+      "fuente": "El Siglo de Torreón",
+      "fecha": "2026-11-11T20:59-06:00",
+      "enlace": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQY0NUX0xEXzJGdW9IS0NIa1hmdDBHczdTOXFNWllZOVRiSlBubGhvdk9tT3BLWk9YVXBnTVFwTFZGZUVpZG5lNWJQNlhHaGwyR2JXQW1SSUFPclhrenhxNC1HVktLaURBQk12Mm1uZ1gwUlZKQ2tCeVR2cW90NUw5dm9ueFo1cHR0SHJmNUpGVVBKWVJiTktyUEtNZmppVVdob1FSa0cxODhWRy13NVVfZF9MSzlZQktWSFNyVEgyTHNVdGdkbXpTX013?oc=5",
+      "grupo": "B",
+      "categorias": [
+        "Monclova",
+        "salud general"
+      ]
+    },
+    {
+      "id": "fe34fe0c812b",
+      "titulo": "IMSS Bienestar presenta 12 acciones para fortalecer la atención médica en 120 días",
+      "fuente": "Mi Punto de Vista",
+      "fecha": "2026-11-11T20:04-06:00",
+      "enlace": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOWlFRM2w5X3Ezb1JmcTJlMEcxOGZiYjg2OGYtb04ybWM5aGRkOC1RREJvODFwNFZBelBCVFh4eWRObUQ5YnNEaU1ZMlM5eE80Vy1GN19ESGczU0hwUUJoUHFlbTk4ZXZiQzQ1amZBZEkySng1T1pUSndEN1dQVTdtQkJETlZYQ2FaZ20weDVyR2NUUWVjcXZfcVRpa0VTbkpTVkVmQU9NdkRBdFI4NGxEcFowNk9tWVV0?oc=5",
+      "grupo": "A",
+      "categorias": [
+        "salud general"
+      ]
+    },
+    {
+      "id": "f50ceb617943",
+      "titulo": "IMSS-Bienestar abrirá más de 19 mil plazas médicas en dos etapas hasta febrero de 2027",
+      "fuente": "El Canal de las Noticias",
+      "fecha": "2026-11-11T19:48-06:00",
+      "enlace": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNclNLdGVybGQ1Qm1tU0VWTzNHV2xkUThlU0VURUQyZC1reW5XZHRLeDkyVFpTWE5iY1dKb0szTjYyMFFXckZpTEtQSWx2LXFnUWdNak1rSWRfT2pwTV9uREdZcXN0VE5TdkVVXzBvZHZPcjJKRkJrNUhmUENJU3U1TnljRm1iNjZXV3c?oc=5",
+      "grupo": "A",
+      "categorias": [
+        "salud general"
+      ]
+    },
+    {
+      "id": "2d048e7f5d53",
+      "titulo": "Advierten alza en trastornos mentales - Zócalo",
+      "fuente": "Zócalo - Monclova",
+      "fecha": "2026-11-11T18:59-06:00",
+      "enlace": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBwSmpGaHBzLU9UZ3BhQjU2NmtmM0haNHFwZTh1d25oQmZ6aERpU1hMNlJPc3g3X3J5X2dkUW9CUW53R0pRbnhZTXRVd1hBRDlkUm1zOHpldnAzSzMxeEp6ckFjY05ELXM?oc=5",
+      "grupo": "B",
+      "categorias": [
+        "Monclova",
+        "salud general"
+      ]
+    },
+    {
+      "id": "8515d93d48dd",
+      "titulo": "Denuncian falta de médico durante las noches en Clínica 10 del IMSS - Zócalo",
+      "fuente": "Zócalo - Monclova",
+      "fecha": "2026-11-11T17:59-06:00",
+      "enlace": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9ZOWpMRnVnQ3BiaXpyMEMwaU4weVlwU2ZwQjd4RXE5R29MaUVQUDZ3SDBZMVRGT0pGc242di1fYnNxbEhxam9ZSDIwSWRvQmR3Mm13MlRPSDhOaGZXbmo5MXFB?oc=5",
+      "grupo": "B",
+      "categorias": [
+        "Monclova",
+        "salud general"
+      ]
+    },
+    {
+      "id": "8980f82763e4",
+      "titulo": "Investigan dos casos sospechosos de rickettsiosis en Piedras Negras",
+      "fuente": "eltiempomx.com",
+      "fecha": "2026-11-11T17:01-06:00",
+      "enlace": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNX2dwY3hwd3NER0tRaUtrVzJnOEhKX1BadS1FcnRpM0NUTGxESmllaWlhZXZPRC1yX2VBY005aHJ5YXNZWVkxTnBBSE85YnIxdElfTHFURHIySE04NGptQVNrREVNVGdUNkJKaGJ0SlJZdEJJYlpTMGdaMU5hOXUtRjhLZWlmZ2pIUGJ0VFlSeWJhZk5BNlA0dzdWSjdROUNHdFhrZXpxcmk2d3pV0gGgAUFVX3lxTE9HNi1yakt1VUx5bVc2NFJJcWgyajM2TGRVRG1MNGkyNHFzbTBhamd4OS1xZU1XRWRrU19FWU9Eb2FfWDNuYUtMZXZPQURlQ3h5NjRta3B3b2dPdmlGSDdYYXFpN1NJMHFzN1dBUmVXS1RsTkI1ZXdoVEM3UlpMeGY2QnQ3Y3ZJdWxWWkthemlTdmhDYk5Lb0RFWHN5UUlmd2w?oc=5",
+      "grupo": "B",
+      "categorias": [
+        "salud general"
+      ]
+    },
+    {
+      "id": "0a24b39f6a9a",
+      "titulo": "México – Ozempic ingresó al Sistema Nacional de Salud",
+      "fuente": "Diario Jurídico",
+      "fecha": "2026-11-11T16:41-06:00",
+      "enlace": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPdkdZQWZ5Nnh3b3pyN1JkNGI5RU1jaVkzMlRyOW5aQnJ4ckwtYldPREtQcDFwTjBMSk1VWDMyVmZIQlV0SE5iVDB5UV9xWUN6N2NOOHBxdWVEZHpfN3pRV3pNUDltQWZpUnpZQzFUTTZwN0swdUV6dkoxQjc1TU5NczE1MFNyaUlfVzZ3?oc=5",
+      "grupo": "A",
+      "categorias": [
+        "salud general"
+      ]
+    },
+    {
+      "id": "b930fd5fe900",
+      "titulo": "IMSS-Bienestar les promete abasto a pacientes con cáncer",
+      "fuente": "El Imparcial",
+      "fecha": "2026-11-11T16:15-06:00",
+      "enlace": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPUmNkMmxsRXZEMC1GLUEwMndhdE5BN2pOdm1aNVNNN0xuX0QzOHhLSWk0T1Y5V1VYZnYwa2ZnTWNtZmdKQXFFaHNjcUFqb2pkSlZHd3JhbmhCak1LWkZCMDVLZjUyVDJQOWk0cm14NXMteThnOGhzMWl4NDI3UXNxaFgyVGFLak1HSVhyN0g1S3RYZWhrZXpNOGQ4WE9Wck5LUVVCbjc5bzJlUXI10gHHAUFVX3lxTE9za0pMNzh5Q0tiUEZEWjlobFpBSGl3U3dXSjBXdlJNS25yYnZhcVkxc0diNXFMWTdSN0VJTnNmeENLa3lzY0lWNERLb0otdE9hdWhjX1hJS3BTYkhYSkR0TWM2czlUd3lPZXRQbUV2dHlJSXEyc1o0Mmh5dm9lZ2RrOE51NFJqTEllN2xUMzlNbUlPekpTdVU3ZUQyR3gyc3U4NmplS3JUeDlDcllDNzZYMzJyZFZCN2VMYy04VjhDWjZKbVdQd28?oc=5",
+      "grupo": "A",
+      "categorias": [
+        "desabasto",
+        "salud general"
+      ]
+    },
+    {
+      "id": "3a73cb52cf92",
+      "titulo": "Trasladan a Puente Grande a 20 de los detenidos junto al 'R2' - Zócalo",
+      "fuente": "Zócalo - Monclova",
+      "fecha": "2026-11-11T16:12-06:00",
+      "enlace": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBfbFhYQl85dF8zWXQ2WDF3VWMyWlJmYkdjZDd0ZXpJdGppb1V6eGtjUkNLaHRCWGRLZ1k1QzZERXhTNUQtU0hoSll0V3hfXzI3aVh1R0ZHSGZrOXF5TGlRUG9PZw?oc=5",
+      "grupo": "B",
+      "categorias": [
+        "Monclova",
+        "salud general"
+      ]
+    },
+    {
+      "id": "7721e6c4aa2e",
+      "titulo": "IMSS-Bienestar anuncia inversión de 25 mil mdp para renovar 23 hospitales y fortalecer la atención médica gratuita",
+      "fuente": "LJA.MX",
+      "fecha": "2026-11-11T15:37-06:00",
+      "enlace": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNQU4yY3pLU2NvR0UyY2VHUy1MaVAwSWFNOGpJQVdzaDA4LWNSMEdwa3NRRllGYnJDNnNURC1JbzU4eDhaV3lfY0hBWWxjVDF0X1FKREtnTHpaN2EtMS1ESC0zSTdqT2d2aXBWV25VSUJpbmF4YnJ5VVpNVENVSjlsWUs0RkRhYVpJaWtjc0xOM2NGY3dSbExSNDJmckdnZllhOGVUTS1UdWF1djB1YndrU2lIYlNSNGVRelQ3YjQtUTQzUkZXa2s2SVZVX0Rjc3VXbjRCNEUyTmYwZw?oc=5",
+      "grupo": "A",
+      "categorias": [
+        "salud general"
+      ]
+    },
+    {
+      "id": "76dd8f36b86c",
+      "titulo": "Sheinbaum anuncia 12 acciones para ampliar la atención médica y el abasto en IMSS-Bienestar",
+      "fuente": "El Popular, periodismo con causa",
+      "fecha": "2026-11-11T15:03-06:00",
+      "enlace": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNTDAybHdGYnRlaUdsekk5V1IyMFRJUDN4bzhDRGhGNXEwTUFHeHJKZ2RxWFVkVHc1RmtOdlZFQW9TXzJIVmhuR2FTNnNrUWV1VWhKTmNNSC14eDZrQW1laFpUc0czQ05CX0hmVWFUMzNsVTc0VmFDSUxsRjJ1WmlXZEY0QW1GV0UxdGVSczZtTWloUFRDbFJWdDVBY01RZDVCRjFqU0t2dnVZSk5STzZLRXgxWlJqTlBMaFZaWm9CQnNLdXNZVk9HR0RERlBjSGdoUWpyWEFSV3dPQQ?oc=5",
+      "grupo": "A",
+      "categorias": [
+        "desabasto",
+        "salud general"
+      ]
+    },
+    {
+      "id": "3b31c28d8c55",
+      "titulo": "Los mil millones que Nahle dijo que utilizaría para comprar medicamentos, que nadie sabe dónde están/ Místicos y Terrenales",
+      "fuente": "Plumas Libres",
+      "fecha": "2026-11-11T14:13-06:00",
+      "enlace": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNTUZQZ2dvempLYndOX1hDZVVEVUVrdDNaZlktLXBzaFdEZ3Q3VTQ3MEJCcWpocFVPQ29lRS1vNTBPbzRGZDlsanJWZTJicU5jYS1ZTHBtZ2tfREhlQ0NseUstZHNFR3lFWElnUDV2QVZtYnV5U0pEUDNIY0Z3ejFIcmQyTk0zQ2pfMkdhSTJEeUJoYk9nM1RNSGFuMmlfUkZneDBCOURwZmVEajBUaWlMY29Bc2ZTa1RiM0otVzVxV0oxX0NRQUpKQ3BBTUNLdURCRUJ4UjJ3ODdNRU1zam82TmVXX1NGdXhramNfaXltcWlOMUk?oc=5",
+      "grupo": "A",
+      "categorias": []
+    },
+    {
+      "id": "14ad958ea768",
+      "titulo": "Anuncia Sheinbaum incorporación de 243 profesionales de la salud en Tlaxcala",
+      "fuente": "Urbano Puebla",
+      "fecha": "2026-11-11T13:48-06:00",
+      "enlace": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQMlEzV2xyNDZlbnA4cXRROHlpbXpWcHduNko0UG43b2huMHFSNUx5c204VkJuYldSWTl1YnpXYlJjOWFxZlpJWHVyUGxyNzZ2Qi0xZDBUZ1ZLN243SS1wZWhieE1IVGhhQkxwbWlVbDRzRC1aNmFpUklBaE5xLTZpRzhfc1BnSnBYZDBpckNsWjJ4ZGhLSGFWRnNwUGNSSzFKSnkyQ2ZOZk42ZkxBYjNMMWpWZlJoTGV5WXc?oc=5",
+      "grupo": "A",
+      "categorias": [
+        "salud general"
+      ]
+    },
+    {
+      "id": "92045f26b5ac",
+      "titulo": "IMSS-Bienestar fija meta de 100 millones de medicamentos para los próximos 120 días",
+      "fuente": "La Nigua",
+      "fecha": "2026-11-11T13:31-06:00",
+      "enlace": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPSlhFQlRYaDQtWVJTLTlTbTlhOEpaSFdIbWFWdmVvZkFmSmpVbUxEb0dFMFI1YWw0dl82MjRFeEJIVkdlQXMxX1NjcnNPbEx1eF9RLXFMaGJVM3kyTU1wMk0tTThJMS1iXzF2OUJseHdzMlhqVmFZQXBLcHh5YTJSek9JZWpkYU1yM1B3U1g5RHhVUjRRcENqNE8tVW1aY2xmR3lrenNRd2daTU0?oc=5",
+      "grupo": "A",
+      "categorias": [
+        "salud general"
+      ]
+    },
+    {
+      "id": "1292ed441a8f",
+      "titulo": "IMSS-Bienestar pone fecha a 118 mil plazas y 100 millones de medicamentos",
+      "fuente": "La Nigua",
+      "fecha": "2026-11-11T12:56-06:00",
+      "enlace": "https://news.google.com/rss/articles/CBMingFBVV95cUxPWl9RTXk4dWNCbVJmbE43b0FpVU9nanZjUHJIUkdlejJGNElGVnZyek00QWdkRGh5SmtMNHhVRWI0U18zMHVWNE1tUmY0clgwY1g3bkpiRDhoNGVneXczMDdJWFVRcGtUMkRLUjlraFYtV3FjcFFEcmxvZS1TZEVja2YzYkZFT0RYQzFVQTRrWlhvQ1dEWkluUU9McTN5UQ?oc=5",
+      "grupo": "A",
+      "categorias": [
+        "salud general"
+      ]
+    },
+    {
+      "id": "f39c14a3c814",
+      "titulo": "¿El IMSS recetará y dará Ozempic para tratar la obesidad? Medicamentos que se incorporaron en el catálogo oficial",
+      "fuente": "Eje Central",
+      "fecha": "2026-11-11T12:25-06:00",
+      "enlace": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPX01CWFdGWW12Uzh6c2FfNHVNakx5RXZYOVdBa05kUnRSUnRHYWpVR2c3cGJGM2VfMVFmWXpMXzdzS3hEZllWdmh6U3BNNnZ0WVlVTXViWG1KMnNlc0VZd0RHdjh6TkZaUGxtOEJudm90NzNMc0QzMnVtdUExSXFQeFRoanVMZ3NfdWltQVMzTlpLNzhSeEJBbGR0cTVSakh0S1pWRTB5bV95WHRwSzdrVTVFZWZkd21FNWNabDlYSGFoX0ZWa2ExeVgzR2s1OFdlbDNNNjVZVFNqLWZGSDBWR0szbkNaWUlX?oc=5",
+      "grupo": "A",
+      "categorias": [
+        "salud general"
+      ]
+    },
+    {
+      "id": "937d27e6e020",
+      "titulo": "IMSS-Bienestar exhibe brecha del 55% en consultas generales frente a estados con sistemas autónomos - Zócalo",
+      "fuente": "Zócalo - Monclova",
+      "fecha": "2026-11-11T12:03-06:00",
+      "enlace": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNd0htWDJ6ZmZEeUtsdjZ1NXV0OEhOa2ZraWtTYkJ5TlZfdEpDcExtdFBWWGFtSlo5SjZqMTJ1YXVLei1rWHl0eWJoNGUzd28td1RkakhMbDNVM3pmeHhTbVJGUUpwcUxoalE0aTQxWmlaNER5SWtSVE9qY2piSzB6aHg3NzctNlRQbjNMRFFOWXBIRlR6ZEhfQm9lVW0?oc=5",
+      "grupo": "B",
+      "categorias": [
+        "Monclova",
+        "salud general"
+      ]
+    },
+    {
+      "id": "9ad7acd4151d",
+      "titulo": "IMSS Bienestar presenta 12 acciones para fortalecer servicios de salud en 120 días",
+      "fuente": "W Radio México",
+      "fecha": "2026-11-11T11:23-06:00",
+      "enlace": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPZU1weEkwV19MbmF1V0hSYWRlelBnRDJITVk0ZEpUS3loeUxDU0NnR2NVM3F4YVVZOGlBVHJlZ0tRNkE4LThadU1OejdrWGQ0cXMxME5EMERSTzNHTzEwWnhfZXBRMTBpbnlXUmNNU3VDZ0F2YjE0YkttMDVpeElxblRGeUdTVlZibmNYTEVWR2k2c0xBWjhrZVJxMTNSMmRxaU5VaUxtbl93a196OHQ5RUVuMVJjWHM?oc=5",
+      "grupo": "A",
+      "categorias": [
+        "salud general"
+      ]
+    },
+    {
+      "id": "617526f91e5b",
+      "titulo": "IMSS-Bienestar reporta más consultas y anuncia 12 acciones -",
+      "fuente": "https://infoquorum.com.mx/",
+      "fecha": "2026-11-11T11:09-06:00",
+      "enlace": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQYWxDT2FTYTdtcWEyTUxoYWM1ckJtTlpqOG1uNHRrRm9uSEh0Tm1MQ3IwTTRJbWF5RUpGZVdtSnQwcjhQVjNQR1lYejNhbmkwZExvY1dWRW5VMVZWeTZPMEFRX1phd1hWSU9LUVRLa1IyM09YR3lyWmNUeFQzN1NmX3ZqQ0xJUlNtaVlNcHZMWkVCRmljaUZSaUR3?oc=5",
+      "grupo": "A",
+      "categorias": [
+        "salud general"
+      ]
+    },
+    {
+      "id": "d4b7b370ce13",
+      "titulo": "IMSS Bienestar refuerza servicios médicos con doce acciones estratégicas",
+      "fuente": "La Chispa",
+      "fecha": "2026-11-11T11:04-06:00",
+      "enlace": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOaTRWTlV1aXNydXc2dlFvUGlNQkhRLWE3REoxNUZMVVQ5anE3R0tyUVNPc1o2RWJnRFUyRHlSSnJtNFlWcjR6d3JfUmstRkstYk9tWUV1TUJFdXZKdERERU0zaENQNmQweDNMQmMtUDBVcUE2aUR6bzJpVXhiTkotSGhpOFVjZ3NqdzFvT1ZCTHdkSHJEUTFNWQ?oc=5",
+      "grupo": "A",
+      "categorias": [
+        "salud general"
+      ]
+    },
+    {
+      "id": "565c4b215fbc",
+      "titulo": "IMSS-Bienestar anuncia 12 acciones: esto cambiará en los próximos 120 días",
+      "fuente": "Periódico Enfoque",
+      "fecha": "2026-11-11T11:00-06:00",
+      "enlace": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQTGZYeVNtemJ0QUNCU19OcWlqWjUzMjlRSXlTd1FOM0hOZHJ4U0dzSDk0OTdLcUxfdlJJR1paVzM5UUZnV2E2QllDZWF6QVI5ejF2bWJsNko3b09RdzhQUmlVN3pfbndJVmpJWWdqWENoMEtuTzFCeWlaRjdXMmFxekJtcDVHZlV0bnhTcjhiN0dnTlRjQXh1U1JHMlJvM1lPU2dkdy1xZ3BqRExGeVo5YlhscGxiblIyYmfSAb8BQVVfeXFMTTZjODdCY2FqNUF6TTdWZ1JkMWpKQ25ubm1xeGNYX20zQXpWUWZDQk1VSG9CcUdGeUR4ME5RRFFYY0ZSMi16RjZRS3VhUVdMVktYTkE0aWpRNjJ6UFpBaTd1emlMMmhMMDJReEdmYUZfbFBMS0tsR1VxU1NIaWN6OHNtcXZOUGNJVVEtUXhIbmt0dUFZUlY4UEotVndzai1TbDhYbkpNOVdfOGVNa1VLRS1ZeXpxblkxTjJCbFpSazQ?oc=5",
+      "grupo": "A",
+      "categorias": [
+        "salud general"
+      ]
+    },
+    {
+      "id": "dc02b429ca6c",
+      "titulo": "Google DeepMind presenta AlphaGenome 2 para estudiar enfermedades",
+      "fuente": "eltiempomx.com",
+      "fecha": "2026-11-11T10:54-06:00",
+      "enlace": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOeXV2NGh6Z3JQNnVadHl5NmJZMHloclZKdVE2X29pT2dEM1VpeWZIV2VTemZ2VVJYSzFEZmtxNHhFQjRyc2VrQXpzMUo0YlFNM29EdkU1Qk1Tc25zX1lsZG9mcHF5cl9OSlNKdDdqWlVoWGJrZmc3YUxieWRTakFZN3M0S2tMeHh2YU5Tb0Q4U0dnd05ISnRucmctbmpXYmQteUhEOGQ1S085d9IBngFBVV95cUxOYUx1dl9RVUpJc2U2M0JVU0x4aUd6RkYyd1ZkdWdFTDNJOTkzWXdrRjR6aFgwdGp0clppSUFNODdaNTRtaVkxeWhPMFhheXVlSmRiY0xhZ0V4TERtSDZLWmlpYmxWVl9PNnVvaEgzWlBXY0VQbUJocFJnYUNjZThFOEVldFBaZW04V09tM2ZMS1hJS00yQ2diQlVuSFZyZw?oc=5",
+      "grupo": "B",
+      "categorias": [
+        "salud general"
+      ]
+    },
+    {
+      "id": "9ebe886a74ea",
+      "titulo": "IMSS-Bienestar anuncia plan de 12 acciones en 120 días",
+      "fuente": "CONSULTORSALUD",
+      "fecha": "2026-11-11T10:36-06:00",
+      "enlace": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5jOFF6eVVyWG1oa1dpOHRiOFZMX0hkU1phWXZnMUNDR2VvRUdPOUZBMElyTENleXFjVWFZbnA3ZEpkM05uUUlzZE83RmtkdzZHdERvWnJDV05tZkpfM29VakY0a1BVU29YMU1wTEJucXdaMTAydTlST1lJNkF1aUE?oc=5",
+      "grupo": "A",
+      "categorias": [
+        "salud general"
+      ]
+    },
+    {
+      "id": "c8f0f827c9c9",
+      "titulo": "IMSS-Bienestar impulsará basificación masiva de 118 mil trabajadores y atenderá precariedad laboral - Zócalo",
+      "fuente": "Zócalo - Monclova",
+      "fecha": "2026-11-11T10:14-06:00",
+      "enlace": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQOVlHcHRWOF8yMmRUS05MSklEYjBRVk5LdzYzSWJ1SWcxRzlhZHQ4R3FGbzFldDJfTl9KQmhJdHJ5N3Z0ZVdJY3JWeFBXOGVOeVR4Y0VyNC11dU50WXc3OFJCdFdqc0VGWEtmTHpyallEZmlhZXZtZ21hX1ZVcE8zWUJxWDJnZjhXY1dweVd4ZFFpY2NTaGgtUmFCOVoyczFLMG5wNV9JT2JBZXRWbkFXT2p0Q0xIbFI3TjlDWDlhLXJWTnRIQWxVdg?oc=5",
+      "grupo": "B",
+      "categorias": [
+        "Monclova",
+        "salud general"
+      ]
+    },
+    {
+      "id": "50cf2900a5cd",
+      "titulo": "Sheinbaum presenta plan del IMSS Bienestar: plazas para 118 mil y 19 mil contrataciones",
+      "fuente": "Rotativo",
+      "fecha": "2026-11-11T10:06-06:00",
+      "enlace": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPSjdkQTV3NDhpSWtHRkwtQXBEN2RRMG1HaExSdjZzamE2NFFhRDVHMVNyVHpOUUZSSDVSMGFkUmhmb2RycUZqaFlNZDdfVUo4S1J4S1IyNi15WEFHVGl5NGRGSXE2aEdGc2l6Z0JwX0FVMnRLZlhRbzFCWDVnbWU0Vl8yWG4?oc=5",
+      "grupo": "A",
+      "categorias": [
+        "salud general"
+      ]
+    },
+    {
+      "id": "76e0251fb025",
+      "titulo": "IMSS-Bienestar tendrá 12 medidas para ampliar servicios médicos y garantizar medicamentos en 120 días",
+      "fuente": "Portal Liberación",
+      "fecha": "2026-11-11T10:05-06:00",
+      "enlace": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNOHg4amhyMThDRWxJRzVHVC1EcjA4TGdiN2liSW8yQ080NnJMUVZxelVMbVBqbWx6X0paNjFIRFBxRHNlQkVjbHQ0VVlMUVcxSC14ZGtmWWtGSTRDb2N0eFN6Z1lGS1k3cEJEOUlzWjV2R0RPa2MxYk9nRVFmcWExOUtwSXhYam9pYUZVdTl6VF84TjBjWkpzb1B6bUM2ZFlWcG5ndUk5T2VEa0JQMDVscW14Tm9mUDhYUGp5U1FFSmFiRlhRekl1bjlpczkzV2M?oc=5",
+      "grupo": "A",
+      "categorias": [
+        "salud general"
+      ]
+    },
+    {
+      "id": "190eb07e46fb",
+      "titulo": "Estados con IMSS Bienestar rebasan crecimiento en consultas",
+      "fuente": "La Razón de México",
+      "fecha": "2026-11-11T10:00-06:00",
+      "enlace": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNQXhaZUpmUTVsazNIUVJ0ZUlOYWktZE1NS0NkR1hLYU01ckhFYzE3cUEySTBwWEttQ0J6SUZMY0loN05QLVZLcDVRQ0dHZkhTTnppaE9QYmhySUw0MUY4RFdKdzRLNjF4RF92cmt3dnIxeVFKaC1KZ1FZVWZxYVpBdmNZcldUTXN6TDVQUWFiVnVOVzAyR0V2M0J1dzlsLWF5ak5yNUFB0gHAAUFVX3lxTE00SDZpSWRJOV83VGktUlZOaDFqbXNERG9laUtjMWdZN05sZ1ktcWNlOVRFYWRENjB5c1B6aFdOZzNpZ0tYYUF1Nk1aM2dNck9iWFJmTUNTc2QwVk44NGVaczF2eTNiTkZkblBRR2U3QzNYN1hWRnhidUFkR0xibzAtLXhWRFlkeUdETG9QNzg1QmlkRjRNdlZSTnBhUTN5MDNsTFd1YlpnM19XVXlMRGg0MWY4cThQU1UxQUpHdl9iSA?oc=5",
+      "grupo": "A",
+      "categorias": [
+        "salud general"
+      ]
+    },
+    {
+      "id": "8eae2597a023",
+      "titulo": "Estas son las 12 acciones explicadas que el IMSS-Bienestar anuncia para transformar sus servicios en 120 días",
+      "fuente": "Debate",
+      "fecha": "2026-11-11T09:53-06:00",
+      "enlace": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPUElaODBxX0JSeHV2UjJpdGN3cGhRenJMall1NmR1Rm1PZm5mSjlrWFhOaXUwTXN1LXZ5cEVDRURWakJ3cm9RTDBhbEdDSmdDcldpYkJmMjAyQ1Z6ZVR5ODFaYlExcHNYaERDbjdBSUszeHI5bmxqeTNBMkdoMnRQME5xaHN1cUNseGkwMWxkemQzRUJMdmVCRkZwTVJSTGdpcHdQR1dtb0MxN0ZaU3pQMEhpbXNPSzhpbWMwZzBMNXFpNXUtZVVWcjltZnhjeERoX3Z0QnVVOXg0QlQyTE1EQTgwdkdYTzJLb1E?oc=5",
+      "grupo": "A",
+      "categorias": [
+        "salud general"
+      ]
+    },
+    {
+      "id": "f5ca49b48ad9",
+      "titulo": "Promete IMSS-Bienestar distribuir 100 millones de medicamentos en 120 dias",
+      "fuente": "Hoy Tamaulipas",
+      "fecha": "2026-11-11T09:43-06:00",
+      "enlace": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNUW9idUhjMUJUXzFHTTJadEpYOFlUNFl4cUZNcHBSU0x1d1BTNnRRYzRuNV82RTRPZDJsQ2RVZ0xzWHRGeE9XaHd2cEVQLVk0dnRLbkJrS3A2c3dkR1Q1UW5RMW8xV1FpSDQzQWxSNG05bEZWUUpzdmt4emwzZzNKeGREU2Q3TGhfSlUwVDR5ejJoQXVjbXBwM21CREpPVnEwYTJlWVdZSzB1YXMzcGhkYm9EY3BjYVRvclpMQzJiQQ?oc=5",
+      "grupo": "A",
+      "categorias": [
+        "salud general"
+      ]
+    },
+    {
+      "id": "91ec52eadff2",
+      "titulo": "Amplía IMSS-Bienestar cirugías en Veracruz; descarta que sean jornadas temporales",
+      "fuente": "Imagen del Golfo",
+      "fecha": "2026-11-11T09:40-06:00",
+      "enlace": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPVjZ2ZDhHOXkyNldfLVZMemVTQ3ZTUFFiTG11dWkzMTdFQlloOXJlMnlQUFZIYTFMQlZtdi1JZDNLckpYdUlJdWk1VHcySDlIamYxUzZtc1JXODl2S2c2d1hqek9zUWZRYUh5Z0FlR01pajFPLS1PRF9wZEtDUktNN1ZyYVJETVN1cjVJWjNrRGM3Nkk3cnlCRnQzcEREOVRjdHIwNURKcDU1VjlxNnJMT0pUTmlFSE5fcEUtYlBNWlF4MW4xX2FJ0gHMAUFVX3lxTE9yekpzM0FuTlRoTzRTNDY0UFBTMGlZMV9yN25TejRnNDByanNRek5scmYwX2xBc05aUUlvRkd1OUdVaHFIWlN6SXkzQ01lUzR3Qm4xM1RSdUI0NVVWRmo0Vm5FX1hNdHo0bkZGOVh5a3I4RmxYclgwdS0tcVM4cXRYeU9nN0hJUHJBOUVGTUU2U19XUThlQ2pna0tTVUFidkFNZHl5NDRrUXNsbGdWSDhMNU9qZllmcmkweTlrRVluaXU2QlMwbUl4ZXo5TA?oc=5",
+      "grupo": "A",
+      "categorias": [
+        "salud general"
+      ]
+    },
+    {
+      "id": "d33df84f69c3",
+      "titulo": "IMSS-Bienestar anuncia 12 acciones para mejorar la salud",
+      "fuente": "infopoder",
+      "fecha": "2026-11-11T09:33-06:00",
+      "enlace": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNRW9tUk55LVBia0lMdE9pNVZnS3JHSE8xWE1QQU9jdUI2M1ZyV3A1dU1NMDBFMnVoTmhMNEZwUkhLd2NpUG5EblJJVUF1Tks4QklsZUNPMFBGSTJESWdYQnRRdzd3UkdZZndXVU5lX0xMQUJKUzVUSG5tNzFoZHRNX1BDNGVKenJMV1FNZWloalBBQWVqdlRqd09CVS1MMFYtdmxIeFgzWUdCZw?oc=5",
+      "grupo": "A",
+      "categorias": [
+        "salud general"
+      ]
+    },
+    {
+      "id": "50fc61ac1cc4",
+      "titulo": "¡Nuevo hospital para Michoacán! Plan nacional contempla más personal, medicamentos y servicios gratuitos",
+      "fuente": "MiMorelia.com",
+      "fecha": "2026-11-11T09:23-06:00",
+      "enlace": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPVXRPZHhhVGp4NFVSWUdIbUJ6N28yUWFockRlbmI4WHYyb2dzc1JVSUpkTUUwVDFYREJhT28xWFJtcVJSM3A0S3J4Z3NUcWVTa1ZVcldXVDQ4SlF6N0Z1UWhUYlRESGhySm5QTXNpYjd1NnZTQXRsOUNwZTRqcTRzVzBidlNWdHZLODRhRTBaYUFPa0VMNXlVbGFWbWkyOWsxSGh5dXdJRVd0bUJKZnFuVUFZSEdPYUE2ZU9fNWVyemRuOG1IeWRubkwyRGVKUdIB0wFBVV95cUxQZGFkT3pJMjdwUktZWmZobTVTX3FHUEVrc3NGXy1pRXl5TkxUNzdVcHVrOXVjWHp2SlFnR25LckFDX3Ixa1YyUHJSZlUtSXJEaXZ1ajQ0bDRDTlVfdGRVT2xjZU1YclZMRzc4c3VPWkMxMVhNOXlkZE5xSFpVUU5BRnZPcHBIZlUzSkxIbXdydVpBTnRIalFhc19XX0RMLXRjemhXTlFSTnQ1Mm43UWhienYyN2lpVUg5ZlBDbXRybHpaM0NKeG93NHFmOTZKLTJDRFlJ?oc=5",
+      "grupo": "A",
+      "categorias": [
+        "salud general"
+      ]
+    },
+    {
+      "id": "226ec04e7eaf",
+      "titulo": "IMSS Bienestar aumenta 55% las consultas generales desde 2023",
+      "fuente": "Enfoque Noticias",
+      "fecha": "2026-11-11T09:15-06:00",
+      "enlace": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQNWJKZ1VNaEd4QW0xd1hZNkwzVWFhc0kxUWduMWNaUUpLT1hJZkxxbGhkX2FSRHd3QXpwQ29ZVDVqVUJnTU1RZlBuM3RUSDY5MnljNE5VTlZDODBSWXBFXzRwZV9uWGZPNVh2UEVzUVg2V1A2akhoMGptQWhISWJTUi1DMEc3LWtSR0RrcmFocThQaTh2M1B6NHRlaU9XTmJWN1E?oc=5",
+      "grupo": "A",
+      "categorias": [
+        "salud general"
+      ]
+    },
+    {
+      "id": "30ae46d1f6d9",
+      "titulo": "IMSS Bienestar presenta plan de 12 accionesm en 120 días para su consolidación",
+      "fuente": "La Jornada",
+      "fecha": "2026-11-11T08:59-06:00",
+      "enlace": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOTE5XZUtCSVR5dlZHdU15ZlhFcUVWNWgxTEN3aUVZcnN3UWFtZzEwdjVaeUYxMHRydGJlSksyUlQ1REViLWVYa3o4ZjZsVFRqeC13VmUwTFBwRlJmLWJEUzJDcE04bjZ5NFoydFI2clRUYlFLWHhLM0RvVkY0bDlGUGRVM3AyMEZpZ3dDbjFUU1BBZjU0dEpwRmNYMkNNTVJvdldSZDk5akM0QXFVeXJxZUlRNEw2NkxVcHJjcw?oc=5",
+      "grupo": "A",
+      "categorias": [
+        "salud general"
+      ]
+    },
+    {
+      "id": "cf0272d4bc78",
+      "titulo": "IMSS-Bienestar reporta aumento de 55% en consultas generales y 105% en especialidad",
+      "fuente": "Excélsior",
+      "fecha": "2026-11-11T08:54-06:00",
+      "enlace": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOMUtOdkhscGp6REZwcFhQdG95MWMxTlJ3cXE0aEgzQzktSEtjeGZaVGQyVzVyN2tGVHdLXzBfTUdvTDE2b1JGLWhWV2NDaEVHcVBWbzdTNlQxd2Q2Y2I2YV9KNnJhWldVMklaSDZPTnlVcEtYWHlYZDI4aHNvemJuMi0wRUFrUUF6WjNDZ29vTkR5WWRLc2NZajJhVGFDNkpac1RNcXlZV09TRXQ0N0Rj0gG0AUFVX3lxTE5kem1TdFdaOS1lVk9xUkJSbTNoVVhDRmZ2bkNwa0pEcERvMHByZnVaUWlKdmo5RFpUTHBXQllEaG5qSzN4aHE1dGM3WTRwU0FkR2p4NlNNQ3poS3FzMk9uSzZGUVUyMGZ6MDBXTVpKOUJRaFVqOUE1M3BlcVNHZTdvTzU1RGJJeF9zbFkwRm5QbnB1NEZfdE82VEg0U21oV1hvZ3VUSmpaZHptYTE3S3ZKTXpJVg?oc=5",
+      "grupo": "A",
+      "categorias": [
+        "salud general"
+      ]
+    },
+    {
+      "id": "6a5163b86b0d",
+      "titulo": "Presidenta Claudia Sheinbaum presenta el plan de consolidación del IMSS Bienestar con 12 acciones en 120 días",
+      "fuente": "Gob MX",
+      "fecha": "2026-11-11T08:40-06:00",
+      "enlace": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPZ3B4RHprODFTUGNBNDE4ZTZPZ09KTXo0d0dmZDJvTnktcXEyUzh1RXFyck1faGxZSk9XZXRrLTc1RkJ0TVpVSjN5Q3dhY3VaMmhuS1NqeUZ0ZEltMlAwTFZwc1JuTFlFaFdodEdOdVJxYThzbURCbWRORWJ1NzI4RVUxT25xSEF0QmZMZjZfV09HZTRDOGp2dzl3enRGdFBtOXh5STdsNzZfWmtBX082bTgzbDlrTWNseF9nODZ4N0had2lNUjAtUElvQ3hHYkJJRDJtcGY5QzZnWEdxWmtXRA?oc=5",
+      "grupo": "A",
+      "categorias": [
+        "salud general"
+      ]
+    },
+    {
+      "id": "752c758f3dd4",
+      "titulo": "IMSS-Bienestar anuncia 12 acciones en 120 días: contratará a más de 19 mil trabajadores y reforzará hospitales",
+      "fuente": "Por Esto!",
+      "fecha": "2026-11-11T08:23-06:00",
+      "enlace": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOcTFNUzhrQXJ3STZBRGxxdU1Ud2s4T01KWjBUd0FyQWJzVU9teE1nQ1JDZTFYaG1qMmwybGxnVFdMUmlXa1lNOUk4a0Z6bV9LVm50em5BRlMwcXVDckNlYkc2NWoweUtodVJweXdDblZmTnRYMG1xdXlLUkprRjVVSDhJVHJjb3VyMDNEZmxwV3NqNEs4eW9hcDFBcEh5VUJ4a3JkcHpIeDlwU09fTW1qZVpmWVRxSXZHOVAwa19tSllDaE53U1h1bVJjSmvSAdIBQVVfeXFMUE9mUjV5cFAzT1JCQzA1MmswQmFyT29ESUl4VkFic1ktclFpTklETTZuT21tSnk3NG8zQWRnc1lTQU80NUJ1clM3d1Etb04xb2RfckZ6amJSX1E3VW9JV1ZqNGRkZ2dJU2VaUkZBSndyZV9Gc3NPOXQ5VTVLVVBoczNGMURYanREMTJnR0RzNnhKenBZSnFEVFluMmpsTFFoaWJQQkJTVUI3ajBXMmJ3aHh1WHpLOHRaeDhrYTc1MmNaN0dhUm4xSjV6ODFnY3RBX1F3?oc=5",
+      "grupo": "A",
+      "categorias": [
+        "salud general"
+      ]
+    },
+    {
+      "id": "b6104e636408",
+      "titulo": "Pacientes Surten Recetas en el Mercado Negro ante Desabasto de Medicamentos",
+      "fuente": "N+",
+      "fecha": "2026-11-11T07:43-06:00",
+      "enlace": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOQmY4SzRyZ042ZDY4Zi1yNW95bHZBVXVDa0E1bzhmNldkUjZJU0Ntc3l2a2JBT2xTa2ViN0VaUm5ZU29rT0xSZDN1ZkRqcmVnY1hJa2lWNUFOT25nbDJWa1U3OUJUY1k0bS1mNUZWdnVsWjRuTWMyMEtDZklyT1VJOS1OdXhyRnZfa2VNNnVHYWVlenNqbFBEeDhJUFlPc1I4blVJSEdaZlBpcXQwdGNkTFZTdE5mU09jVTNHSkNla0U5SmVhVmhpdllBMA?oc=5",
+      "grupo": "A",
+      "categorias": [
+        "desabasto",
+        "salud general"
+      ]
+    },
+    {
+      "id": "ceafca2014db",
+      "titulo": "Pacientes oncológicos denuncian falta de medicamentos, quimioterapias y servicios de laboratorios - El Sol de Tijuana",
+      "fuente": "El Sol de México",
+      "fecha": "2026-11-11T04:41-06:00",
+      "enlace": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPdUVhZl9CUlFRVklLRHBKTUpxb1dQSHFLN1BFUTBudjJCM2NicUFyRGZIRnJlLUJvN3RwSlk3T1YyanBDa0pBa1dPS1FaLWpvYmhIYS1VNXF4aWU0Q0VPVW1sZVY1Wm9SR1B6YzAzVmlmalMwTWF1VHRnYjRrNjE3eDNQa2J1LVFTY1ZEdVI2dVlpTlRPaUZkQ21xTVRveUt1dGwxNWVJWFdjd2E5aWx0Y3UyVEpzdDBKNl90Vi1qV1ViV2xscEp1TkR0YWJTRXh4RjZDZDhFSmhKd1AxbGc?oc=5",
+      "grupo": "A",
+      "categorias": [
+        "desabasto",
+        "salud general"
+      ]
+    },
+    {
+      "id": "0453b0ddc895",
+      "titulo": "Impulsa Gabriel Elizondo seguridad, vivienda y salud - Zócalo",
+      "fuente": "Zócalo - Monclova",
+      "fecha": "2026-11-11T01:50-06:00",
+      "enlace": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQenVTSVRSMklNR3ZMZi1DM2ZTaDZicjVZZFlTTC05R3N4WWNITkNEbkFJNXpFNE42T2tmX1pRMmZaU1lmQlAxTW1NLV9wQktXZnl4Umw3Y3hEZTN0cDc4MzJ6RUs3TFZRLUJ2V2pLQVV4RUVMM3RDcWZfNnZ6TWhrUUtPb0tLUks3?oc=5",
+      "grupo": "B",
+      "categorias": [
+        "Monclova",
+        "salud general"
+      ]
+    },
+    {
+      "id": "1d0b84f77e59",
+      "titulo": "Alerta por virus en jardín de niños - Zócalo",
+      "fuente": "Zócalo - Monclova",
+      "fecha": "2026-11-11T01:50-06:00",
+      "enlace": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBoYnhWaVVGSElNNEN5NEZ1TXdncUFGTUExNDVxVnN4S3JDVTljY1lJODBXMlJZNkZDNmU2UUlFWEYxUkpqOHVIcEJBU2trUTFhQmxSRUtYS01ac1lwUEU4Rkl3?oc=5",
+      "grupo": "B",
+      "categorias": [
+        "Monclova",
+        "alerta sanitaria",
+        "salud general"
+      ]
+    },
+    {
+      "id": "a372d373236b",
+      "titulo": "Aumentan enfermedades respiratorias en Monclova",
+      "fuente": "RCG Media",
+      "fecha": "2026-11-11T01:19-06:00",
+      "enlace": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5WM181U1FXMWJqNmJaQmJUdFJHa2tTZFFBSXcyVkpJMHRmdG1adkZucm91UXhTamg4dWJNb3V4MlY3emlXdVZULVJQbTZ6cmRTMXh0Qnpmb2xpc192RjJubHpGbE5qMFZGSkphaUZCWVBIMnYyREln?oc=5",
+      "grupo": "B",
+      "categorias": [
+        "Monclova",
+        "salud general"
+      ]
+    },
     {
       "id": "6694ec1eba2b",
       "titulo": "Colaboración local, estatal y nacional entre los hospitales del IMSS Bienestar: aplican “Abasto a Tiempo”",
@@ -31,29 +566,6 @@
       "fuente": "eltiempomx.com",
       "fecha": "2026-11-10T21:42-06:00",
       "enlace": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQZXBnRmVINFNoeUtBQ2ZNQ0ZxM2pHUUVidkJsRUdfOWFPaTNMcVMwMVpFYmp1RHAyUm80NUZreUZ4TnJJa1hHZE43d1JId3o5cm9CZDZXWjljbDl2bF9IY3pEWV90WE9sZWU5TndRRUZUV25yWG5RS1E4RmJjZ0NKb1g0OEY4RTA1QktscU5ackJBZS1JX1JnTFlfM3Q0TUdpc2xCenZpbHFNdkVQMzM5WjItNzJDcTdkbkFoWDJ6bUR2M0ZtVTVR0gG7AUFVX3lxTE9hai1qenNXOFJtQXp1VWhHellZakp3RGtQWWt6alNPRDlyYVN3bnZVT2Q5NXFCLXNhV1h1WnhQYWlLYnRBSFg0dmNvY1d5N2JCQm9tZjZWaElSaW5TX2NoWWNHMzlXQ2Vqa25RYlBmSHA4TTF2S2VzZzNyLU55M2dZc29xV1ZnU045cUVsRkVnelZuWTFlV0tJM2tMU2lRUzMtZTYzRHlUU21KTUN6NUdCZXExTURHSHQ1b28?oc=5",
-      "grupo": "B",
-      "categorias": [
-        "salud general"
-      ]
-    },
-    {
-      "id": "ceafca2014db",
-      "titulo": "Pacientes oncológicos denuncian falta de medicamentos, quimioterapias y servicios de laboratorios - El Sol de Tijuana",
-      "fuente": "El Sol de México",
-      "fecha": "2026-11-10T20:40-06:00",
-      "enlace": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPdUVhZl9CUlFRVklLRHBKTUpxb1dQSHFLN1BFUTBudjJCM2NicUFyRGZIRnJlLUJvN3RwSlk3T1YyanBDa0pBa1dPS1FaLWpvYmhIYS1VNXF4aWU0Q0VPVW1sZVY1Wm9SR1B6YzAzVmlmalMwTWF1VHRnYjRrNjE3eDNQa2J1LVFTY1ZEdVI2dVlpTlRPaUZkQ21xTVRveUt1dGwxNWVJWFdjd2E5aWx0Y3UyVEpzdDBKNl90Vi1qV1ViV2xscEp1TkR0YWJTRXh4RjZDZDhFSmhKd1AxbGc?oc=5",
-      "grupo": "A",
-      "categorias": [
-        "desabasto",
-        "salud general"
-      ]
-    },
-    {
-      "id": "5943e3c834be",
-      "titulo": "Terapia experimental con ARN mensajero logra regenerar músculo cardíaco",
-      "fuente": "eltiempomx.com",
-      "fecha": "2026-11-10T20:31-06:00",
-      "enlace": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNY2RiZWtkOVFtd04zVWJUR2ZzX25sN3A3LXdOV2plMHUwdUlGQlJkR3otdlBhOFF0QjJILVNrb3NxLTNDVDNBaTZieXBTYUFWdG84dDlHcGdURldJR2VnVUJscG9JQjNJNHU3cV9QVlFlcjB5VElSYzFxSS15clFKRENsMWQzOEJWeGdPSGkzTzkzNzVsNzdaUFA0NDlaQ2d3eE84WjkwY3FkOVRDcVZYRnpR0gGmAUFVX3lxTFB4SkpHMFBGRFduLXk1UE1LbDFlT3lEdURxQnlvNWxsdHJFVXlNbXpuUTZ6ZEJuOGZxWXdzbzB2TzNoOV92WXJ2Ymh1SzlESVIyWDFGT0dyNjJrUGd5MTBzVDh4VUpmbG83bS1HbTFqNmt2Z3RvMHJpYnRxUU9oTnBqWXV1NU9kc0hUX0tNVlFHRUdwRWtuT3hGTnRBS3pBeWY3Rkl0Qnc?oc=5",
       "grupo": "B",
       "categorias": [
         "salud general"
@@ -95,31 +607,6 @@
       ]
     },
     {
-      "id": "0453b0ddc895",
-      "titulo": "Impulsa Gabriel Elizondo seguridad, vivienda y salud - Zócalo",
-      "fuente": "Zócalo - Monclova",
-      "fecha": "2026-11-10T18:40-06:00",
-      "enlace": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQenVTSVRSMklNR3ZMZi1DM2ZTaDZicjVZZFlTTC05R3N4WWNITkNEbkFJNXpFNE42T2tmX1pRMmZaU1lmQlAxTW1NLV9wQktXZnl4Umw3Y3hEZTN0cDc4MzJ6RUs3TFZRLUJ2V2pLQVV4RUVMM3RDcWZfNnZ6TWhrUUtPb0tLUks3?oc=5",
-      "grupo": "B",
-      "categorias": [
-        "Monclova",
-        "salud general"
-      ]
-    },
-    {
-      "id": "1d0b84f77e59",
-      "titulo": "Alerta por virus en jardín de niños - Zócalo",
-      "fuente": "Zócalo - Monclova",
-      "fecha": "2026-11-10T18:38-06:00",
-      "enlace": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBoYnhWaVVGSElNNEN5NEZ1TXdncUFGTUExNDVxVnN4S3JDVTljY1lJODBXMlJZNkZDNmU2UUlFWEYxUkpqOHVIcEJBU2trUTFhQmxSRUtYS01ac1lwUEU4Rkl3?oc=5",
-      "grupo": "B",
-      "categorias": [
-        "Monclova",
-        "alerta sanitaria",
-        "salud general"
-      ]
-    },
-    {
       "id": "5e351c3846e3",
       "titulo": "Canacintra Culiacán pide al IMSS garantizar medicamentos y agilizar citas con especialistas",
       "fuente": "El Sol de México",
@@ -142,17 +629,6 @@
       ]
     },
     {
-      "id": "2ade2fe550a1",
-      "titulo": "IMSS Bienestar no comprobó 7,497 millones de pesos para medicamentos en 2025",
-      "fuente": "Columna Digital",
-      "fecha": "2026-11-10T17:50-06:00",
-      "enlace": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNMmJqeFM0enNob3gzVDI2VjBfd1lsODBGUkhRdmpNWU16NmVoZkJsdHZicS1sSDZvWlMxYjFRbEdGZ252bmNGX2hKeHpqV2hTY1Q0X2ZoUkxDNlJWS01rd2E1aWgxdlAxUXFXM2pUajJLQUJFa3FGaW5UXzN1cEd1SU13RnJLbkE2REx0cmNxVG85QkQ3?oc=5",
-      "grupo": "A",
-      "categorias": [
-        "salud general"
-      ]
-    },
-    {
       "id": "5196c98e28c1",
       "titulo": "El IMSS Bienestar tiene 7,497 millones de pesos sin comprobar",
       "fuente": "Expansión Política",
@@ -161,17 +637,6 @@
       "grupo": "A",
       "categorias": [
         "salud general"
-      ]
-    },
-    {
-      "id": "2db981f0741d",
-      "titulo": "Grave desabasto de 40% de medicinas que debe enviar el gobierno federal a Jalisco, advierte diputada",
-      "fuente": "La Crónica de Hoy",
-      "fecha": "2026-11-10T17:19-06:00",
-      "enlace": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQblV4eUh2UHVHTzN3OEVLUkJvM0Y1UXo5RV9jV04yRzNsc0hDWGRtUTdUS2NJNjhNdk1KSk9odEJZQTVDWjJLa0dKdk03ck9jWE56TXZ5blpHcldESWxlb3pJWVMzVXlDcUNFSnFLS3NrY0RiY1JrcEFDb3cySk5qdUJ6STNWcGhwVThIaC1qellGeldjZE43T09xcnJyeVlkZFpvaTJtWnU5cDhwczdTMXIySUtKQkdUUFZUcThtX2VxbE5ZWUd1Z2dYMS1rekY0OHdGd1pHMjBqSjRQejRfcUVpbWtsaTNmMGNkc2x3?oc=5",
-      "grupo": "A",
-      "categorias": [
-        "desabasto"
       ]
     },
     {
@@ -194,27 +659,6 @@
       "grupo": "A",
       "categorias": [
         "desabasto"
-      ]
-    },
-    {
-      "id": "91bb4e743316",
-      "titulo": "Los mil millones que Nahle dijo que utilizaría para comprar medicamentos, que nadie sabe dónde están",
-      "fuente": "Periodico Veraz",
-      "fecha": "2026-11-10T16:36-06:00",
-      "enlace": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPLWk1OF9QNGlrdTdxZjBhS3h6YWtmdDhtTEp3YlRJaXVWQU00ZEZWbTlXY3B5cTBKdnZYWm5EdGdXY0NaYW5FbzRucHpDWlE4QnZPNlE1ck50c3BraG1sTWtwT2tIa0JYeWZYcjJUT1ZtVlhneGN0Y3dvNi1sN1J2cjFlOHdNZTI1VWlZemx0cEtyTXZqekNEYV9EY3JKSkpnQm4wSThtSW92Mmh6OUIxeTRxcGJGMjdJa3BYNWdpWWFtUHNieWc?oc=5",
-      "grupo": "A",
-      "categorias": []
-    },
-    {
-      "id": "92fbd05bb033",
-      "titulo": "Monclova será sede del Foro Nacional de Ingeniería Clínica",
-      "fuente": "El Horizonte",
-      "fecha": "2026-11-10T16:25-06:00",
-      "enlace": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQYnBoYmktLUJhR1cxR2IxbjRDeWpuYk1DU2x1bWtGQWo4dmVnSWtmN1lyelBZSjR6V09nLXZ3cmd4UlB4VUplNVJodXhqQ3BLSGNTNEliMVZITDdzN0lGazV5enVtU2JsNnE0UWpRWU9HeUlxZmJHRzlWeTFhR3Z5OXdCVEdjVWpjakFOY2g5Wl9fdTRJckdKMlR5bkg1YXJIdE04Q1owMm8?oc=5",
-      "grupo": "B",
-      "categorias": [
-        "Monclova",
-        "salud general"
       ]
     },
     {
@@ -299,6 +743,18 @@
       ]
     },
     {
+      "id": "acdf3472b849",
+      "titulo": "Nahle presume recorridos por hospitales, pero familiares siguen denunciando falta de medicamentos",
+      "fuente": "TV Azteca Veracruz",
+      "fecha": "2026-11-10T09:50-06:00",
+      "enlace": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNQ3lqUnVnTUtIMktlZFVJcWlMTFJhUEpGbGl0b3RjRmxSdEhGaTdxUDFZOE1jQUN1aGVZeUdSWmEtUFhSTzFvU3lNaUpSUkNHZ3VubVRvb1lTUW05WkRBb2Jubko4NFhfU1F4TU9VMU8waU5YNjVaOXlIMDVJQ2gyWHdzbWdfanBWOUJYcUp6V0I3bHB1a01aaGt6UC1rRHV0VXZoWkstdGdONGZ2cjNZU1ZGV2ljWTdRVkZ5cHlQWHZRaUUxN3p4OS1QY21jTnhydjFz?oc=5",
+      "grupo": "A",
+      "categorias": [
+        "desabasto",
+        "salud general"
+      ]
+    },
+    {
       "id": "faaea21e431b",
       "titulo": "Sin insulina ni medicamentos: denuncian desabasto en hospital del IMSS en Doxey, Tlaxcoapan",
       "fuente": "El Sol de México",
@@ -356,15 +812,6 @@
       ]
     },
     {
-      "id": "e4e5ea029c22",
-      "titulo": "Pendientes aún: 54 mdp en medicinas desde 2025",
-      "fuente": "NTR Zacatecas",
-      "fecha": "2026-11-09T07:51-06:00",
-      "enlace": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNQnRxREE2SlBDeUxpVUM1WGNrcDVKa1Y4WWlIa0VvTVdvcGNla05IX01yLUpKc2xRekdLQU5iWmhhZExRMl9BbGV0b1lFWXo0Vl9rWTBOSnhReDRXQnBRWndsVnVBU3VITndERUNBb2tCeG50VEVVSmxrU3ZzUmJJSVlsU1JOdw?oc=5",
-      "grupo": "A",
-      "categorias": []
-    },
-    {
       "id": "f133a6921a8b",
       "titulo": "Burnout: cómo identificar el síndrome de desgaste laboral",
       "fuente": "eltiempomx.com",
@@ -387,17 +834,6 @@
       ]
     },
     {
-      "id": "3513f75c76e1",
-      "titulo": "Refuerzan Hospital General de Piedras Negras con 21 nuevos trabajadores de la salud",
-      "fuente": "eltiempomx.com",
-      "fecha": "2026-11-08T21:43-06:00",
-      "enlace": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPc0pkdkVQTFdWcEVDU2prbEVvZjFfMUVIM29Va09xYTR2ZVFacUhBTC1scXpoTFJSNE9CeEFnbHBPMWROUFdCcWp5VGdjT2NDQ2JPV2Q1ZWY1bnEwSzV2bElvMGtFeU5wOE84OVRtRmxFSWNmUUxOTTNPVWZ6Qi1UMms0MjNsUjJOYTFrc1gtM0dOVW1NM2RkN2lZaTB1Rk05TjFOeTZNRTRyRzVSaTd6ZTdQVTV2MlJsN28yemY2UF9IZ9IBtgFBVV95cUxPcGNGeDYtQnlJbmFQUnY3WnpXOWtpdURyLU5rLU9nM2pkei1CdGNUWUV1VUhUeFZkdDJwbVBlb3d0aGN3SXZ6eXE4ZDlWSkowa2dhZi1fRE9MSkhxV2ZsUFNWZGZzVk5ZRVNuMl92eFEtNEgzSWlTNHpJaEs1NGNtX3Fic3BteU5fNHR3bDkzUG9EQk5FQnNtNnVpcVhMcFlZek1fWkV3cTJHUFQzc3Z1ZmN4dGNQZw?oc=5",
-      "grupo": "B",
-      "categorias": [
-        "salud general"
-      ]
-    },
-    {
       "id": "680038c77a8b",
       "titulo": "Acercan servicios de salud a familias de mineros.",
       "fuente": "eltiempomx.com",
@@ -405,18 +841,6 @@
       "enlace": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPOVdNVkhtRkRZSlJ6dmtLdUFHTWMzUnFxVzQ0cTFpMlU1X19nYW9UTnRyeHp2MzJuek81SkpUcXNwcHRQMHJUVkpCQmNEYU1tbzd0WlhYNGY1OWZ6WjBCeXg5Yl9FLWlLdXkxbHI3aW44cUVjT1BjNHRnZjE5SWNQME9FYkEtS0dkcmlmWEU1UEtZZm_SAYcBQVVfeXFMUDAzZWc1TGNMT2RMN2hkd3pHYlNJdWVldUtjWFhKUjV0V2ZyN0VTTG5uaUltWFh4QXQzNjNvU213V0w5bUQybXY3Zm1WanRvYzVQaHYtSjhlcVhaVWREMHp2VTVZeFRVbTRHZWp1QU8zMDQ5TEViR1VFX3hfNXBybm13VU9zOENn?oc=5",
       "grupo": "B",
       "categorias": [
-        "salud general"
-      ]
-    },
-    {
-      "id": "baa8d3dafca0",
-      "titulo": "¿Sin medicamentos? IMSS prioriza su herramienta Receta Completa para surtir personalmente a pacientes",
-      "fuente": "Mi bolsillo",
-      "fecha": "2026-11-07T15:53-06:00",
-      "enlace": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPWWpocDhRZ05rY3Q5VGFoSWhFdlA2N01OY21wc1Y3S1d0TE82X3ZESWVSS3MyRGl2WTZnblNmZXoyYVpwM3RVWDl3SUtUYkZaOG9qby1QSERpR2dzM0x6dnRDQUtyb3U3OTdqNTdDdzlILVBhQUktai1CQ0NpNUlWTHlPMkFfekt3bVY5WnRjaVFQQVpzY3F2R1NQUUVkbzRNM2NKZF9PTmVwMVVHR3NoVDZJMDNjT3FWVG1mdkdnSUVDa2pmOFlSRU5QRXR6V2hMbVVQYUxxYjM4Sm1BSnNwemI3OWgxX2t2OVE?oc=5",
-      "grupo": "A",
-      "categorias": [
-        "desabasto",
         "salud general"
       ]
     },
@@ -434,6 +858,17 @@
       ]
     },
     {
+      "id": "33c7f31bf1af",
+      "titulo": "Clínica del IMSS en San Buena abrirá parcialmente este año",
+      "fuente": "eltiempomx.com",
+      "fecha": "2026-11-07T12:40-06:00",
+      "enlace": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQUVVWN285Zmw4RjJTaGJKbkd6UGR2MTNqVkUzSXVDZ3p1SDQ4SEpuSlZrMjNQamlabC1lRkxiY0d0WFJUeXY1dl8tV2d0QWpMMDRfV1JjQkR3WU9xUWtHWlJLZVhBSlVPUzM4NGhVYVFuZGxJV2YtWGlYSkhrdlo3VGdmaFRSNHNDX2F3VmVrQ2NUTnRudGIzd3lCRWhfRzhV0gGUAUFVX3lxTE5DUEJDNXJPQ3RoLUhPQ2Rtc01jUUJpNUlyc2Z1YnprdGxUV2trWUZvaklkVW50MGtXYzZOTG1JSm94SG5LamRVOV9LMjRKLVBVbl9qU2hwWFdOaEowUG80V1RuT1JvREpLdTdGbUhzb0F0ck9SSFNmU1UxbmhzZXJPYkQ5VC00dmNzSEk5S3FZTGJxX0k?oc=5",
+      "grupo": "B",
+      "categorias": [
+        "salud general"
+      ]
+    },
+    {
       "id": "7776a15cf55f",
       "titulo": "Planteles también registran virus de mano, pie y boca en Monclova",
       "fuente": "eltiempomx.com",
@@ -446,17 +881,6 @@
       ]
     },
     {
-      "id": "33c7f31bf1af",
-      "titulo": "Clínica del IMSS en San Buena abrirá parcialmente este año",
-      "fuente": "eltiempomx.com",
-      "fecha": "2026-11-07T12:40-06:00",
-      "enlace": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQUVVWN285Zmw4RjJTaGJKbkd6UGR2MTNqVkUzSXVDZ3p1SDQ4SEpuSlZrMjNQamlabC1lRkxiY0d0WFJUeXY1dl8tV2d0QWpMMDRfV1JjQkR3WU9xUWtHWlJLZVhBSlVPUzM4NGhVYVFuZGxJV2YtWGlYSkhrdlo3VGdmaFRSNHNDX2F3VmVrQ2NUTnRudGIzd3lCRWhfRzhV0gGUAUFVX3lxTE5DUEJDNXJPQ3RoLUhPQ2Rtc01jUUJpNUlyc2Z1YnprdGxUV2trWUZvaklkVW50MGtXYzZOTG1JSm94SG5LamRVOV9LMjRKLVBVbl9qU2hwWFdOaEowUG80V1RuT1JvREpLdTdGbUhzb0F0ck9SSFNmU1UxbmhzZXJPYkQ5VC00dmNzSEk5S3FZTGJxX0k?oc=5",
-      "grupo": "B",
-      "categorias": [
-        "salud general"
-      ]
-    },
-    {
       "id": "187b24c15a70",
       "titulo": "Zoé Robledo defiende resultados del IMSS ante diputados y asegura que 97% de las recetas se surten completas",
       "fuente": "El Imparcial",
@@ -464,18 +888,6 @@
       "enlace": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQc0ppWk9NamlVLW44RmYyd1ptd0ZHcFFXSDVaUXZDU2RlXy1lWXFMVzYtTWxmX1pBWENnZVBsQzdIUFF6RDBxdGpJMV92eElaNUtPc2lwei1wbk5xTk91Rl81bkRSYndTcnNpNTd1MEwyb2p1VnF5RGZEd25zczRpV2NDc1FvWmMxSUtBcks5YVJaWFhMTnhwNFdlN1dTYy1CckZSWHVsbWdabXJtVVBCWmtBZUNmLTFocm84YnBHdUJ3emEtNkFOLXRyNVJVY0lDdjk5TmlKYVFuWUxyYWMxTF9idXlGdno1TmfSAYQCQVVfeXFMT2JkbkJpVUJnVS1KN0VSZTd6dzl3Uk5pdGhIMXN5dlpYZWEyZ1JWcmRhTS0xbzBGeUZETkJmbkRtaUE3VDJZdkZiWG5VZTNnc1VKUVFvU3Rad3U3QmFaaEZ0N2IycmtGOTZSS0l0bzczcFFFQ1QwRF9jZHdhd3JMTlV0aFNBV1Iwbzg0eW1HOWFMTDB3TkROVjhEZTI2Z1ZscnhmZG8yQzM4dm9zNmFIR292SHdoX1BRY2E4VWEydG5ndXh0MGRIa2ZtZjRsSHlPVmRDYVY2RWJJUVNXQmltYUlnQXVoY1piWWxuRnZiSlNnNEFfYWNCNTVWZW0yZktNOXRvLWk?oc=5",
       "grupo": "A",
       "categorias": [
-        "salud general"
-      ]
-    },
-    {
-      "id": "2792158df71d",
-      "titulo": "Diputados federales cuestionan al gabinete de Salud por abasto de medicamentos, infraestructura y cobertura universal",
-      "fuente": "Red Crucero",
-      "fecha": "2026-11-07T08:45-06:00",
-      "enlace": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPandPcHpuNlRaTjcydldvV1hfWjlnTnJQVUx2cURLZ09SRTlxYmdYLVhYNFhSOTJvRkx0cF8tM0JzV3QwZDZ5dGVWaGxnY2NuTjVFOGo3dzByZzhIeFBLMF9iXzdON291Z2lYMlpXM08wTVduVHZLZUZVUWY3TjM0MnRtbUtPYzY2NEpZVkF6WlItMVUtQlhMODZ2LW1kSlVibmo2WDhiT0Y4MG84Nnc4U2d1d2pGQTdYVlRELXpVd0NyanZnVndyMElBV1R3OEw3SzhJ?oc=5",
-      "grupo": "A",
-      "categorias": [
-        "desabasto",
         "salud general"
       ]
     },
@@ -492,41 +904,6 @@
       ]
     },
     {
-      "id": "2eb82baa3276",
-      "titulo": "PAN y Morena se enfrentan por desabasto de medicamentos en San Lázaro",
-      "fuente": "MVS Noticias",
-      "fecha": "2026-11-06T22:42-06:00",
-      "enlace": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPazJ3ZlBCOGoxc1ktUnBuaWVpbTA3UXpuQnBDNnBlMkRGMXRNajZKR0hCNWIxX29id3hWZFVoR3NkR05ZTGJ5UnFySWwwWFFBZE13U3RPalg5dXhzRDlORWxrYzgxa280ZGpqSndkSFlaMTJoNVBTWURialpsRXE2aHdkUE1uU0hCUl83RXBtX3Z0MGp2bkg5R1FxMUtqcjVLbjZFTjVPRnBMS3pheFMwVlhXYkJIM1RNWFFDbDFQQW1DQQ?oc=5",
-      "grupo": "A",
-      "categorias": [
-        "desabasto"
-      ]
-    },
-    {
-      "id": "76a6b23a4895",
-      "titulo": "¿Falta de medicamentos en IMSS? Zoé Robledo asegura que 97% de las recetas se surten completas",
-      "fuente": "El Financiero",
-      "fecha": "2026-11-06T19:32-06:00",
-      "enlace": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQZThuNTRHOFg1S3RXZUdHbjFwZTJ6ZE5NZHNMNlFpNERUaHlmakZtXy1nN2ExcUhPZk9iYWthTnNoREtQNUljTGdiSVJwZmhZNkRDNG8tUGxERm5IX0EzdFFGWllTblotYUxOUnNkWk1CbHgxSGMwczYxVHExcnJldVZsUDVGeWFnRGRxY09STUQ2cnM3Y3M1ZWhrejRHT01KWUduVkwwQVFMbjhlc3JTekQ3eUE1elVBZGMzNHVrVUVHbEcyamdNNWpNN1I4UXRsWElsTXBjTXVEUmdV?oc=5",
-      "grupo": "A",
-      "categorias": [
-        "desabasto",
-        "salud general"
-      ]
-    },
-    {
-      "id": "654b9dc90790",
-      "titulo": "Diputadas y diputados cuestionan al gabinete de Salud sobre abasto de medicamentos, modernización de infraestructura y universalización del servicio",
-      "fuente": "Hoja de Ruta Digital",
-      "fecha": "2026-11-06T17:20-06:00",
-      "enlace": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPd1N6STBaUE9HOE13UXpmQzFwbEEzYmdfUWdjYjZBcmpfT2t1cExTWk9xMWVCLVhQaHkwUDZDYmpDODdEOERHeHI4c1NaWTZlWHlsQ1RMMm9OeGphU0RmeGpXQlQ1RjNuVjhKM0ZLVTBkRHdEdElKeUlvMmZXZUJ5aHM3MGZfQUhEc1NSejVfakxfVDJCcDN3M05aY0FnX2NFWXQ5T0ZHZ0p2Y2NhcHRMRHhhLXR6Tk9vMTdrN2pJU0dId2NfbkF5NGgzaHBUa1V6bHJ3NVN6WEVxR2x1MjRBbEpSS250MEZoN0VYRnctUm9YYjNoWlpKeTV0dUdwR1gzSDVUaTkyU1U?oc=5",
-      "grupo": "A",
-      "categorias": [
-        "desabasto",
-        "salud general"
-      ]
-    },
-    {
       "id": "4bb7b4f5d12e",
       "titulo": "Siete menores corrigen problemas de visión con operaciones gratuitas, en Monclova",
       "fuente": "vanguardia.com.mx",
@@ -535,17 +912,6 @@
       "grupo": "B",
       "categorias": [
         "Monclova",
-        "salud general"
-      ]
-    },
-    {
-      "id": "f0dfd4b84ae3",
-      "titulo": "Enfrentamiento entre PAN y Morena marca comparecencia de funcionarios de Salud en San Lázaro",
-      "fuente": "Central Municipal",
-      "fecha": "2026-11-06T15:19-06:00",
-      "enlace": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQb0lqQmJZV1hrci1KMDlRLWhQVTdTMlNlQWt6OURlSmhsYmM5c3BjenZzZl9lR1N4eTYzMlduZ1g3V0JsWnQweDAxSUtNSURCUHY4T1cyR2NXQWJfNlB6cm52M0Q0ck0tcFhNM2xQTXo2Z0FjQ2ZnSlRyQ0FPUW5ZQTdlTmUxRkZ1S2llYVR1aW1Kb0VNRS1mWVlFM01MNFRvY2FoZ1F4bGdCbGp3NDBWVnhPMWNIWHNobVNaR0pxVEtjdjloX3FqaTRNd1hKeC1kRnAyYjlRbEE?oc=5",
-      "grupo": "A",
-      "categorias": [
         "salud general"
       ]
     },
@@ -574,29 +940,6 @@
       ]
     },
     {
-      "id": "42ce3b1c639b",
-      "titulo": "Seguro Popular no garantizaba gratuidad: Sheinbaum atribuye actuales fallas en sector salud a gobiernos anteriores",
-      "fuente": "Infobae",
-      "fecha": "2026-11-06T12:18-06:00",
-      "enlace": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOb0hBdnZoRGNwWmFGeHhhbjNyVnV3VTFXcWk2Y05LNXdPdVlFX0RFRFEtbHpxbnhOUkdTRU5vZFdCTDdaQmVtV0otdzhMX3B3R2N4N2FTR2JwZU12N2lKNm5DSUU0NGJ5S1pJS0ZJaFMwOXVTMVZCcDlXcjBDUkoyeW1PYkZrR2JHOVBZR21WR0EtZXB0Z1RvX3JielRneHlSVHZySUFnaTFQVTlEVUw5WjJZYmRVdDY1djlqdnJzbkxjVElCS1JnTXVES2VIeENBLU9EdFdNSGVjaWZEV0Z0T2dhQzdRVGVaX2k3MNIBhwJBVV95cUxNTFJ0ODRVdm9BSU5WUjh4WDlJS1FuQnlBdkV4aXRxZWg2U2Z3MEJNa1Q0aU5RWTk2ZjhtRmxhV0pEUjRyUE10VEtXRjU1VWJCNzZCcVBjckpZMkwtT1g0OU1jXzRRYmNWLWppbzFtbEVjMnRma0ZNU3ktUi0zQVVVbElHeU9TZWlEcnJfNFE2d0Zobm5hejUzQ01PaDhwMXNDaFdQdmRYeXVwUU9YbHgyNEhJaFl5UGRFRnZ4NXljcVVzRXRNMFdwcVBrZ1VGa1F3dDRIRVNfR3BrODhRd2I0cVNBMGVKempfdnVzYkhjaVFuaE1WR2V1YVFFNmNVdGw3aG1WXzdaUQ?oc=5",
-      "grupo": "A",
-      "categorias": [
-        "salud general"
-      ]
-    },
-    {
-      "id": "4a92e18b7601",
-      "titulo": "Muere mujer de 31 años tras ser localizada inconsciente en su vivienda en Monclova",
-      "fuente": "vanguardia.com.mx",
-      "fecha": "2026-11-06T10:13-06:00",
-      "enlace": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPanYxRzBjVndzZ2xvbDRRM2ZyZzNXRTJNcHRTUmJzMWx1ZDZHU1d2bHJ0T25Pa0pGb2FpdUdZZGFOODZmRFV5dHBQTzRROUJrSEc2cGxMRHR4QmY5WVBpa3l5anBMOUIwNzV1Szd6eURXSGNyZzN3UzRFRlIxRVEwSGFqZ1g0R0xKelkxVDVQOHVZd0d5YnhBaDQyUTktOWx0NkpmQ1pmWi1rck1XQ2lPaU8ySDlMSmJtUjFmYnRTbHlTVlUtbkdpcEQ4cXQtWDNxTXpZ?oc=5",
-      "grupo": "B",
-      "categorias": [
-        "Monclova",
-        "salud general"
-      ]
-    },
-    {
       "id": "d678b48b4317",
       "titulo": "Desabasto y saturación en IMSS-Bienestar impactan la salud en Veracruz",
       "fuente": "Meganoticias.mx",
@@ -605,28 +948,6 @@
       "grupo": "A",
       "categorias": [
         "desabasto",
-        "salud general"
-      ]
-    },
-    {
-      "id": "ec504597c4d3",
-      "titulo": "IMSS Bienestar ofrecerá consultas con 18 especialistas y medicamentos gratis en Nogales; conoce los servicios y requisitos",
-      "fuente": "El Imparcial",
-      "fecha": "2026-11-06T00:22-06:00",
-      "enlace": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPNHBYMmNuQTQ2OEtmYjd6UkNnQzd0OFFPeDhFTmV3bk5CRFJhcG4tZHdFTUg4N1UxN0NIalpKOC1ydi1PX3Foc29zcU5VVlhXNlNyVWlpWTFWUHZaRVB4UVdzVUs4YjlIZVRUQWNITzc4MVRrM1dpQm4yR2FmVEZIRTRGMC1xSUpxTGVsaDFsWFdNdWwtZWdaSURSOG5vM05USDhwNXJlNVNBckVmandxb0J4M09lQnFDai1EeFpQdGZzY1gzM3JPSTg4Z2h1SERWZHVXcWRPOHNPMEh6aGF4Y3J6ZVJCbGozWDltOGp6SEVpeThOQkZNbmFsOGoyRm9VZllN0gGeAkFVX3lxTE9QZ3lLYURYZHoyU3lKU1ppdHVaTTVoSkQ4ejdEM1pDcEdyRzRhOG90Ujd1aGppM212U1F2dG16M1ZyMC1nNExvX2JSbjZqNE5tbUJjSEpqUDhhM1EtcUZOXzF0WFVwTE5YQlJJVnhHUFNKZDJqVXBPY2g0MWN5Z2hTUWRPZC1INi1mNExzaVJqYmx1X25TWWFDR1RzcjBXR1QtbUg5T3VrZzUyRm4wTXhuTTllUEZMQ2hfd0c4SlFYdFlRdTdlVFdYQjd0ejM4cVFNT0x2UEVjVU53bEw2cDBrSVBuSlpORmE3UnYyd3ZrRVdvR2VieTFTZ0ctUWgzamxOOXctdUtYY19zUi1vQnY4dnN3RHAySHA3cW5PVEE?oc=5",
-      "grupo": "A",
-      "categorias": [
-        "salud general"
-      ]
-    },
-    {
-      "id": "7b45f1f2f6b9",
-      "titulo": "Lilly Téllez propone que el IMSS y el ISSSTE entreguen vales para surtir medicamentos faltantes",
-      "fuente": "Infobae",
-      "fecha": "2026-11-05T17:07-06:00",
-      "enlace": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNcnVIdFhxX0pkRWFhRk92VDQtVzRiTExnVG9NN19XV1l3amg5Nk5EQ3lHalR2S0FfWk9tY2FKX21QRVpkYTYzRFFYMVpoajdDREd0aXJkWWRwcUhjQ2x6bjB0VmE0X2djZWJNZzNTZjZKRWRHMmk3am90c0M0aUJIdE9GNGtfREVyRHVWSU9IaV81ZWN4NE9fMFNCS280ZFdkZU9lbUMyaC1PNHgxWm1VaVZKMnJDclVRQnJqdW9QYzF3MjdCdy1FZXVSQmlqV2Y4WVVNZ9IB7wFBVV95cUxPWmY5aURmWFI5UEtMTXN6Q1IxR0p0elluWlVGalMteGVDeXhUOUtWWlJ0S1YzRmlWdGsxZ3dLbU1lQWVpWkI1SXJtZUZNQUE5bDFxWWRkem0xZXZ1OUJlR2FjM0JaTzJuOEREa2stanVDaTAyVzNXQlQyVWtiR1lmS2ltS015VzdFMm4wTEZUWUVPQlluTDNPcDk2S3hhWnhJMWIyRjdoQ2NpSTRBVktfbUVzMmhoN2NTTm1LMG1WMm1XamNpcE16SDlEdjluRDMtbGpBRzNuVVdnSmVOdEZSVGtPSUxIeUx2ZHNkMXEwMA?oc=5",
-      "grupo": "A",
-      "categorias": [
         "salud general"
       ]
     },
@@ -654,14 +975,13 @@
       ]
     },
     {
-      "id": "8b30688a7c17",
-      "titulo": "Supervisan unidades del IMSS-Bienestar en Veracruz para garantizar el abasto de medicamentos - Diario de Xalapa",
-      "fuente": "El Sol de México",
-      "fecha": "2026-11-05T03:11-06:00",
-      "enlace": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOQ191VVBHNjRLWktNVmhWNmtiQXhUSjA2a2V1aTVUUXRXanV1UFVja0FoZmtjamNwTHRBb2V0SU1vbjNLLVVEcHl1S3ZvWktYWHU0Ni02SExlNlVRbDlMcHJlUy1fNHhMSm9URnMxS2lnRkRiYUgtQTFFT3lUUWJQR25rNWlUZDlJWXVzQ0VRMDZmQ2NvOVVlcGF4ZXp5ZTM1cnFzbnVkeExnSmE0RTJxdkJ2WTNDdUZIT1VoeFdTWS1Zamx6Ni1fUlk5RzRmbGRXZ2VUQlpkOHo?oc=5",
-      "grupo": "A",
+      "id": "357e46143240",
+      "titulo": "Costos médicos elevados podrían aumentar la expectativa de dolor",
+      "fuente": "eltiempomx.com",
+      "fecha": "2026-11-04T22:40-06:00",
+      "enlace": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQQ2Z6Vm5GLWFieUYzSnNvTGJtNmVaWE1HeXFvbDBqUUVyV09mY2JtelVFeGM1RS1PVjdKekQ2ZS12MU1tbEplVldHMWFsVTdWekNKOUJTa2pFb2x1VFRhc2RwR3dPbmxrTmxEdm9KREpqZ2pMMXBvakFZRDViZXdOS053bVVocUQydXk1ci1mUE1vdDgxYWN0M1EtYzdQWFhtQzlCY2lmYjbSAZwBQVVfeXFMTnlfbFRiTkdaVDNLV2RLbkk5UjkyTGtCX29fbHFlNTJuM0VWVnlWdnpUU2QxVWszZXk3R1ZzU3ZyM05jOXBjUkRRb0xUMFl3dndUOW9la21pdmZoZU9xeHNEcXN3MjlNbFhjamdQdnZkc0hyc05ZenY0RUdnVFFFUEh1QThkTTR5VzE3SUlINHlSRnNzQXRLcXpuT2p6?oc=5",
+      "grupo": "B",
       "categorias": [
-        "desabasto",
         "salud general"
       ]
     },
@@ -677,45 +997,11 @@
       ]
     },
     {
-      "id": "357e46143240",
-      "titulo": "Costos médicos elevados podrían aumentar la expectativa de dolor",
-      "fuente": "eltiempomx.com",
-      "fecha": "2026-11-04T22:40-06:00",
-      "enlace": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQQ2Z6Vm5GLWFieUYzSnNvTGJtNmVaWE1HeXFvbDBqUUVyV09mY2JtelVFeGM1RS1PVjdKekQ2ZS12MU1tbEplVldHMWFsVTdWekNKOUJTa2pFb2x1VFRhc2RwR3dPbmxrTmxEdm9KREpqZ2pMMXBvakFZRDViZXdOS053bVVocUQydXk1ci1mUE1vdDgxYWN0M1EtYzdQWFhtQzlCY2lmYjbSAZwBQVVfeXFMTnlfbFRiTkdaVDNLV2RLbkk5UjkyTGtCX29fbHFlNTJuM0VWVnlWdnpUU2QxVWszZXk3R1ZzU3ZyM05jOXBjUkRRb0xUMFl3dndUOW9la21pdmZoZU9xeHNEcXN3MjlNbFhjamdQdnZkc0hyc05ZenY0RUdnVFFFUEh1QThkTTR5VzE3SUlINHlSRnNzQXRLcXpuT2p6?oc=5",
-      "grupo": "B",
-      "categorias": [
-        "salud general"
-      ]
-    },
-    {
-      "id": "47b119f5b947",
-      "titulo": "Memo Ruiz exhorta al IMSS a atender la falta de personal, medicamentos e infraestructura en Coahuila",
-      "fuente": "rancherita.com.mx",
-      "fecha": "2026-11-04T21:35-06:00",
-      "enlace": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPSmtJQTNPaVlqUFR6UHVVQ2VQUEdXYkxnUGhfRnVWLTd4X2NjaTAwSWIwbkg1N2M5SVB3MFFmRVF5a2pVbkdaSi1EMjZpN2Qta0dfa1UwWHMyak91bjIwcjZWY2lFVnhUNFJfM19JR3YtLWU4bFJ5UW5kZl9NelF3N2RSZXZRWTdJemR6S2RKaFA0UjF4NXpyUGtITDRqMS1qbmREdG9kN2JkZThrV1FDckdGQmJmSlZSYUhuU3ZjWTdIVzd6a3p3c2JDaWdzbTJuUGVDWGlQcWlLUzlQbG1QZ0xKTmg0V1FKUEY0?oc=5",
-      "grupo": "A",
-      "categorias": [
-        "salud general"
-      ]
-    },
-    {
       "id": "f68fdcd5dae8",
       "titulo": "Señalan rezago en cardiología y diálisis del IMSS en Monclova",
       "fuente": "El Horizonte",
       "fecha": "2026-11-04T18:52-06:00",
       "enlace": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOWWl2Q2ZrTW5JcHlPaHhhN1NjcGkzWXNsTzlfS2N4T2RXWE1TUTFnRF9DZ2FpRW9sanU3LTZoZS1Oay1ZRmFObHljQUNtS2FmbXpKUmZQclNLd2Z1SzE3UURLQkhPMHlISjRWY1RPUmFmTlpVX3FRbnNteHg1cE9uQ1BFc2t2R3AzM1Atd29zXzlFdF91U2VhZlY0UTFWa2c0dTB0eHpQaXB6TzVi?oc=5",
-      "grupo": "B",
-      "categorias": [
-        "Monclova",
-        "salud general"
-      ]
-    },
-    {
-      "id": "9131bfa2d837",
-      "titulo": "IMSS en Monclova requiere más cardiólogos y equipos de diálisis",
-      "fuente": "INFO7",
-      "fecha": "2026-11-04T18:47-06:00",
-      "enlace": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPeDBCLVlQQ0w2RW9XQmlpSUZaM0lqazZGbE4ycnBjUE1nemFza0dIMnJJelc0WVhfbE9QRXFueW41UTBYUW0tTkhybTJrXzNaQjVvTlBobG5MX0xKTy1VOXA2VHB2Y0I2VFFZQldCSUFwM2ltTWptZW9rby01OFJaVWVBUHJjZlkySWNWUDhyZU5kQllvQWMta2NiRmNxNzRGdUlfVk5IMA?oc=5",
       "grupo": "B",
       "categorias": [
         "Monclova",
@@ -758,64 +1044,6 @@
       ]
     },
     {
-      "id": "c78db588c20e",
-      "titulo": "Auxilian a expolicía tras intentar quitarse la vida en Monclova",
-      "fuente": "vanguardia.com.mx",
-      "fecha": "2026-11-04T10:19-06:00",
-      "enlace": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPZFhKZUYzMDd5QndEZ19RcDFscnhiVkFqYzZ2dXQ1SG1adTB0OGhGWHI5VVMzTWRoMGU4TS1CeTZWa3QyQzFlTl9xbDliLVdpOVBldTVBeUlONldzSkQ2WlM0dk1TRVIzUVdkRWRyYi1QdGdxcTFhVGJFbnhBS3d1b2k3UXNjU09mSEt1ellUdzFKOFA2ZkVIdk55YlA4M0JoWFVUeURkZWNvNTlUOXNLTGIxRUE4QmxkQ2c?oc=5",
-      "grupo": "B",
-      "categorias": [
-        "Monclova",
-        "salud general"
-      ]
-    },
-    {
-      "id": "5fa4103dd445",
-      "titulo": "Batres presenta plan de 12 puntos para el ISSSTE: nuevas obras, más médicos y abasto de medicamentos",
-      "fuente": "Proceso",
-      "fecha": "2026-11-03T21:57-06:00",
-      "enlace": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNU1dZZ3A2YzcxdEEtem9OVkFvQkRJQndWanFOejU4VEFlSFNyOXBzTEd5WEtTQjFWR2RaZ2pJRXdyenBfZUdiVV8tTzJJOXhMTkF2X3BHck51Q0YtYUlSWmQxOTdER0FxVHZLYVdKVWJ1VS15dGxZcmVoa3JtMV9SQnFheWRJcW5qN0JMTThOU1BaWkxVOFByUGs2NUN0MXBuRDNXdzVBcUxuVW9XcVJNSWs2eWdBSE16b2VRNG9fVGIwOWlIdTE1NzB2M2k3UVROdTc0ZzZ2ZndzcGlINndIS09xeTZ3UWw1UUxraw?oc=5",
-      "grupo": "A",
-      "categorias": [
-        "desabasto",
-        "salud general"
-      ]
-    },
-    {
-      "id": "56d9c01a6d3c",
-      "titulo": "Alcohol y cáncer: aumenta el conocimiento sobre los riesgos",
-      "fuente": "eltiempomx.com",
-      "fecha": "2026-11-03T20:40-06:00",
-      "enlace": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOUmZvLWg4UDJNV2w3cUpBU0xpU2FWNklCUnN1ekZiamx1UTdyU1IzQ2s1ejYyMnNWYTllRExIaEs5VjlrNnUtT214UHpZN0lWdHB6SmczZ0tHR3I5SmlwVnhKNExWNFZ4UThtZVh6SGphYTJaSFptR2l1UDRfdWRZUzdQVnVuSGxXN0NSOUw5a3lBSWE1VFR0djZWaFNJcURj0gGUAUFVX3lxTFBNcmJsbUVXSHlaUWZJOEZLemtiVE5zY3hlT3l1VlhqNzJMb1Rfcm0xN3doWlFkcGNZV2wwVldoZm1EVlVZeDRzNUlveEkzMWRQV1RaTEFYeUI5M2RaU0RqbmxFaVF1dDZhWmxUemJFVU01NWVweFdhLWNRNGlxMlRSZ19GQWFfb2p0NFpxZ0lncm1yOFE?oc=5",
-      "grupo": "B",
-      "categorias": [
-        "salud general"
-      ]
-    },
-    {
-      "id": "f5d0187fd467",
-      "titulo": "Uso inadecuado de antibióticos: como evitarlo",
-      "fuente": "eltiempomx.com",
-      "fecha": "2026-11-03T20:20-06:00",
-      "enlace": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQd1VjeURXS3JkZmxOd3lDMTF2bnJucmpTTWMyb3hHZXJ0WUNqWTZoZG9DT01mYWlobjNYd0VXUXVISkZyTDExanA3emk4a3ZDZFB1TkdGWlF1ZW5MR05tTkhFV2ViWTdEMzFZTWNHZ0RCY04tdWRrYlZZblVacWctOTlBM0ZxMVV2UzFTUnVn0gGCAUFVX3lxTE02MVpETDF1OW1Wa2RoVkhBQTQ5NTFvTzVHX0FDV3ZQVkV3bVk3NTdGWENWMTJkOUVpSGhnU1RxVzcxLVl6ajF0THl4bU80c1A1VmNFX3ZDNHA2Nml5TkhWRmtJMlVDWHFfMExUMG9HYXhqR1pHWkhOekJxYkUzVVNBNVE?oc=5",
-      "grupo": "B",
-      "categorias": [
-        "salud general"
-      ]
-    },
-    {
-      "id": "f6b091b2c45a",
-      "titulo": "El IMSS activó el alerta por el faltante de medicamentos y ofrecen respuesta rápida",
-      "fuente": "Ambito",
-      "fecha": "2026-11-03T11:00-06:00",
-      "enlace": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNVjc3eW1aMHpHZnppcEVfRzdOd0JIeXNXMWwyU3FzNWFPVF9BVTBwTXU3QW9DcXpOMHdoVFN1Zi1YTHVnZUR4V3ExNjVGSmF2WXpWZ3NIM1plOUFLcjZucEVkbjZUbXNHSWRWc3pPSXRhdDlReVczclpibjBtQ1BseGxnc3o4QzVhc0dxRlJKZ0pvQlBISWJrQ0JxNmlJaTBheFJzNnJhbldjNTI3WWdsaFJPdzRQZUZ4YjAybW5pcy1Td9IBxwFBVV95cUxNZGZUNTNpbmtmTmg1QjlmU0VrUHJ6Qlpqd3pKSEdGR3hPMzRVUFdQRmd2aGdTRkZ5SXlORHFlSFdfQmp5a2tUSnVvbEVmdTB3cGhJcHlheWphV21SLVNrVE4yV2d5R2tzdHF1clFFazBNRER2ZEFsakgxZmhGLWhFakZoaVpGMWlvbFY4YjNZNy04WFdSelBvLWIzNlphWUp3cmVzOFZyMFFUeXZDMHFxSHNMaHZtNmd2dk53eWlURWwwUWNPeVRF?oc=5",
-      "grupo": "A",
-      "categorias": [
-        "alerta sanitaria",
-        "salud general"
-      ]
-    },
-    {
       "id": "bb1a4524d677",
       "titulo": "Productores de Sabinas refuerzan prevención de enfermedades",
       "fuente": "eltiempomx.com",
@@ -823,18 +1051,6 @@
       "enlace": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPU3h3Tzhnb1plc3B5Q2NCVWhlczVyX0NldFFEVUNOb0dMdFJuVFJRRi04ekhNbjM1VWU1RDhLT1VuRDlpLTZ4cW9LSTR5bXBWQ1BaeWxTeFFwbDl2eTBoY21COGk5YWNqMXFDdUpVVzFKRkYzM05QSDQ5NmpqS2ZBbm5LSnNNYlZ6cTFVOFVpVzI1V3FpYjlvX3BoVHpZdjY1dXfSAZYBQVVfeXFMTTRLdkYzQzYyVXQxN0pldm5WejNkZ282ZWdZdHphUXRDbWRpU1dwQ0dSek9PR0I2MHJMYUdROHp4VFAtWUMzNTUxY0JmUUE0X21vT2o2ZldQSllLUDMzc3ZlMzlxbmdwNFpQVzhUTzJkQng5bFNaeXEyTHRWMGF5RzM1cjFTM0lnWHU2bW5La3h0c25IYkN3?oc=5",
       "grupo": "B",
       "categorias": [
-        "salud general"
-      ]
-    },
-    {
-      "id": "f972581cbdb0",
-      "titulo": "Por delitos contra la salud, fueron vinculadas a proceso tres personas en Monclova",
-      "fuente": "El Coahuilense",
-      "fecha": "2026-10-30T01:00-06:00",
-      "enlace": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNSS1LVHltcGlvX2toUW1maVdVNFZ3UnBneVV6NGNaTkUxbTRUVmJKQ0dfZ0x2N1RGcUh0d3AydzItaGVaQkZOaEJuRFBVVnl1UkkwdEVoVDFJWUk3Y1VfZ2lLNGFFTWlPbEVWWkMzUzc3aE42MGhObzBSdjVia3A2LTlYaGdwRTFZNGxFeElqcFpHclItaHJ1Wm5hNElFMU5oZW1SbWpCNTZ4ZkI5?oc=5",
-      "grupo": "B",
-      "categorias": [
-        "Monclova",
         "salud general"
       ]
     },
@@ -858,18 +1074,6 @@
       "grupo": "B",
       "categorias": [
         "Monclova",
-        "salud general"
-      ]
-    },
-    {
-      "id": "51a2c7d09435",
-      "titulo": "Exige Miriam Martínez transparentar recursos y abasto de medicamentos del IMSS Bienestar",
-      "fuente": "El Sol de México",
-      "fecha": "2026-10-29T01:00-06:00",
-      "enlace": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPRlA1d004MUV4UHVBRk43QlZPT3hpWTBIdVZTLVhkY1Q0Z0wzLVN0bFZROTJRc2R2N0ZlVG9wNnJSUzJ4ZU5SMXBlSXNGTHhzcXdfcUxfTjlmdHdzcTVQZGlWZWFLTDJ5NXRMNHVJeHdyUEk4c3lLTEMyNDhSdE15Tjd5cVVlUy1NeURmMDVUbEtaREt4bDlkZHA3RHdWeDFaelR2TzE3b0c1Z0lNMUhxZy0zblNneFRwa0VkUTcyMy1GR2JYZ241MEFNTEt5dk9KT3hvUw?oc=5",
-      "grupo": "A",
-      "categorias": [
-        "desabasto",
         "salud general"
       ]
     },
@@ -1071,18 +1275,6 @@
       ]
     },
     {
-      "id": "d565cd52e341",
-      "titulo": "Trabajadores del IMSS en Monclova se suman a megamarcha",
-      "fuente": "eltiempomx.com",
-      "fecha": "2026-10-22T01:00-06:00",
-      "enlace": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNUE1OaWJwREhpWFBXZ0d0Qkw5LWtvS2t3U2FoSUxmY2UzQ2lZTFN3Qkt2UHQySzAtMlpzYW5Jb2pDaGZFVnpDV05lTEJnR3RuVGZ6dDlfeDk3Sk56U01YUHQ5R0RtYmNNM0xyVk95RGRsZUdFX21KMHZJZnBYbWVybHVMaHloWkZ5MDJJQU95X3lxdE1MRElNbWNPR0vSAZABQVVfeXFMTmlkOGtMQnFlN0Z5UFZJbTExQWVGeXlqSnk3T1BnQWswR3lQa1N0Z2ZEc25jX0tqemtfVDkwdFhpQWk5RE1ra0VRVk0wc0NZR1Z4Vk1JUnF5YTVVVWpvU0tiUlB1WEtkV2xIamRhTmhvVUhGZHdaRUZTMlpUTjRYbkw3eTZoU1hjbHFFOFdnMDA0?oc=5",
-      "grupo": "B",
-      "categorias": [
-        "Monclova",
-        "salud general"
-      ]
-    },
-    {
       "id": "a23d3a5180b1",
       "titulo": "Encabeza Carlos Villarreal festejo del Día del Médico",
       "fuente": "La Prensa de Coahuila",
@@ -1268,13 +1460,14 @@
       ]
     },
     {
-      "id": "5836ef4c6d7c",
-      "titulo": "Claudia Sheinbaum compra medicamentos para el IMSS a empresa cubana que no cumple",
-      "fuente": "Diario de Yucatán",
-      "fecha": "2026-10-18T01:00-06:00",
-      "enlace": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOSHQwanZuYjJYdG5zS1BXS3FOcUFEZEVsNzltYUJ4UGFYTzlSZEZwcXJSSFY2MUd4MjJIaVZ6QnZENDllUjJWSXFRNkV1MU0yOE5WSGdMWmphM1J6MWI2cG1McVNwX2pEZmN0YVNLdGR3OUdUemxXSzNWanhNeW9NZ1dhMFA3dEVnMlB6dElIM2NXWm05UVFBU3B4ZG4wdkxzMDE0aVc5VHBiUzVFUGlqWlVsb1NTRG5DZzlUN3hHT0l2WkJzaW8yMWhpSQ?oc=5",
+      "id": "3e62cbf0d2c4",
+      "titulo": "Sheinbaum evita responder si Zoé Robledo seguirá al frente del IMSS, atribuye a “burocracia” el desabasto de medicamento",
+      "fuente": "Infobae",
+      "fecha": "2026-10-17T01:00-06:00",
+      "enlace": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOczJzV09ldVU3eUQzRGdvU18tWTdTNDAzZ3F1RHp3OU5OVHdJWlNyeHlVYkVNWF9BeVRhVHFUTWdPdGRMNVRad3FsVWMzNXQ0VEp4eGJXQkZRWmJrM1lkOWY2ZUlFTnV4TFVEcm1YOHpfdHljM1RGMWZFVFdoOWpodS1TTWhYbm1lNXlPWUlLcVZTa0szUTZ0V1hTbWtHT29VVlM3TEI2d1Y1ZmR1VmFacUx4ZW83akFuZUxIX3dRb0gtS0p5RHFFZTJmRmZCY3g1STBhYVdha2luRUMyNENoVlp6d1gta0ZHVFVNSjloNldfQdIBjAJBVV95cUxPNnpDYmRqTUN0aWw2NlhCYThVamJvQnRCTlFWSGN5UTZTSk01eFhxcDdMQ0J2ZDJoaVNzN0h0UXoyWXc0SEtIUDVhYWNyYzhtUG1GVkx5TmxXakhiZ2pMNE51d053ek5ncFRzeFNpUjRLd3hMb0xsWDBPcXlQRjc4MEFmU3JNNjdVLTc3c0J3SS1Pc0hPWjN5UTBEZnNFWTRpQUdmQWpsbnNCWUxOb2NJZmtxcXJ6Mk95ZFdWYmJqcmRFNEg5clZyNXdFRGZXT3h5dkVfM3dRR01uTWRfdkZTUWZJWkw1OVpIUUtDdS1qdlppZ015Z25VZllTd2xpSmNlUmFreElmMzZXd1ps?oc=5",
       "grupo": "A",
       "categorias": [
+        "desabasto",
         "salud general"
       ]
     },
@@ -1326,29 +1519,6 @@
       ]
     },
     {
-      "id": "aeaf4f5c1a0f",
-      "titulo": "IMSS cobra cuotas patronales, pero persiste el desabasto de insumos y medicamentos, señala Canacope",
-      "fuente": "El Sol de México",
-      "fecha": "2026-10-15T01:00-06:00",
-      "enlace": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNYmFjbk8tYUlIZ0JORlVodHdPRUVxQjRZcTc1TlA0Y0hHN1V4cWc4MFdDVUFCb2xURTdPNHhJQmc4cl92VmRMdXo3cWlmWF8wVTYtWDdrVWQ0cTdRSDVGd1RFT1J4aE4xaDNUbFQ0N1ZscjliN281bXBrVEhpRmtnYUVHWGVQN2d1b3VQenZTeEZyNXZBN1gybG9iX2U3alRnMUpKMUNYVXFiZXI0UnJUeFJ1UnhKOF9uTGE2THlibmYyZ194QUhqQ215cjh5dUo3WV90LWJRN0twdW16R3lGeWxR?oc=5",
-      "grupo": "A",
-      "categorias": [
-        "desabasto",
-        "salud general"
-      ]
-    },
-    {
-      "id": "d2f81962f385",
-      "titulo": "Desinformación debilita confianza entre médicos y pacientes; llaman a dignificar la profesión",
-      "fuente": "eltiempomx.com",
-      "fecha": "2026-10-15T01:00-06:00",
-      "enlace": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOajVGMGdvZUV2NnpnTlNZdkRFTEFwNGRYVUx4SVdQSklVUjEzbElmOWVxemIyV25CSFpCRC1wS3IzSFZfQVptVW15S19xNVlXRnItMkY1eldYS3UxMGhGbWtzbUpjbko5bDFHdUl0UEpvYlZlNEtCY1pvZ2VxMnFsMnpzUE9nLWdJaTRxcThjQmQ1a3BONGNYSWFmVURTMEwyODdkUldwdU1TQUxET0RJTFNRSXJ3ejhVaXRKaUlzZVRCbU41TG1fdGlTS09Td9IBwgFBVV95cUxQV1ZkNWxNd2xRMnJuOUhVcWpsb2ZCWWNjTjRDRE1HYTdtVDFDYk93czNKQ3JMNHNSa2ZTYlJOWndrOEotQzFKcW5PZVJySGNvVTkyVXdneHhVVDlYN0pkeFdXZkMxdlQwLWhMUXQ2SFRncU01eGhtTkg0R25FSksxci1GQVc1ZVFUcWIzVGtNTjc2cW56UXBFYzZvcEdfTnBPbzFRWm82WWlHd0d4dUxmM3lOVU1EaEY4enpmMWk4Ymd1Zw?oc=5",
-      "grupo": "B",
-      "categorias": [
-        "salud general"
-      ]
-    },
-    {
       "id": "edffe03129f3",
       "titulo": "Falta de medicamentos en hospitales no es exclusiva del IMSS, advierte diputada",
       "fuente": "PostaMx",
@@ -1369,122 +1539,6 @@
       "grupo": "A",
       "categorias": [
         "desabasto",
-        "salud general"
-      ]
-    },
-    {
-      "id": "2cfb7ea9aa93",
-      "titulo": "Una de cada cinco órdenes de suministro del IMSS e IMSS-Bienestar tuvo contratiempos en 2026 - El Sol de Puebla",
-      "fuente": "El Sol de México",
-      "fecha": "2026-10-14T01:00-06:00",
-      "enlace": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPck1QdVBiaWFzWTcxMnlLTVJ4NmtTdDVwcEwxWlBqbmNLdXN2N0UxSHlnSExkY1hpbGlVYmRxdzFLb1YzMEl2a3hfSzBNN3R3LXoxUkkteWx0MW9JQ200cEprSEhDR0ZWZGdYRTBiNklCbTlnUWpCYlpvQnRPMVVQbWxENFcxXzVvd1pDWjM5Wlc5Si1JcnA2MlFaLUZNa0Z6WkxRS0tSRGJpYkhlVzRsWDY4RF9iSjVqdjV3blgxR2RPWDg0OGRRWnJIV3pld1E3ZTBwLWZlbw?oc=5",
-      "grupo": "A",
-      "categorias": [
-        "salud general"
-      ]
-    },
-    {
-      "id": "79d70708a15e",
-      "titulo": "Sheinbaum promete atender desabasto de medicamentos y pendientes laborales en salud",
-      "fuente": "CONSULTORSALUD",
-      "fecha": "2026-10-13T01:00-06:00",
-      "enlace": "https://news.google.com/rss/articles/CBMie0FVX3lxTFA3b096Z29ackk3RkU0bldLQXBvSm1OWEhZbENYSE1jQlFobWNSRDBMSGs2NUhJZ0d1bGNUNTNmcEdOcTItMXV1dlVkTmt4WmJsVFRYNFBLYWVYdUtIZVhFMDFYX3A2R2ExRklxRURFM1JsZC0xMU5xOEtkbw?oc=5",
-      "grupo": "A",
-      "categorias": [
-        "desabasto",
-        "salud general"
-      ]
-    },
-    {
-      "id": "57385be01a1f",
-      "titulo": "Desabasto de medicinas llega a la Sedena",
-      "fuente": "El Diario de Coahuila",
-      "fecha": "2026-10-13T01:00-06:00",
-      "enlace": "https://news.google.com/rss/articles/CBMijwFBVV95cUxORi1keGFfLWd6aWJQbTg1LWhyenBOQ0JtWExXTjlnUWxXVGczMFlLQURaUmZ3UktWMzdyYmVrRURVdGI0TmZUYlVCUXNjaFZ0RkgzdGRiQ0NacjYtNDlXMjFpQjhlU1dld2ZFcE02TDlHU0xyWkh4bDlIdk14MGE5bUxzMVd3YkFBT0RtNW1wSQ?oc=5",
-      "grupo": "A",
-      "categorias": [
-        "desabasto"
-      ]
-    },
-    {
-      "id": "29cb7ec34562",
-      "titulo": "IMSS enfrenta falta de medicamentos y personal; exigen soluciones en Coahuila",
-      "fuente": "El Siglo de Torreón",
-      "fecha": "2026-10-13T01:00-06:00",
-      "enlace": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQMS1sZWVMem5XRG50N1VRMmJqN2NLQ3NiZ2dwSnVCSHMxNGlNT0paSjU0YlpjZmJJdTRPbm54X1VJNDRya0dfN1VjcjBKT2s2enU3bmlWNERURlhiR3dxZVRLeGNocnA1ampXanpYNFR4TlpPMGlDNDZEMUI2OExWVVVneWJrMDVpVUJZTHNiS1VfcFhLQmdNeHNPRFpRVV9jaFJkUHYtSlctcWFWLWNheTk4UXFSblQ4NkJmX3JYTWJmaldMdElyanVB?oc=5",
-      "grupo": "A",
-      "categorias": [
-        "desabasto",
-        "salud general"
-      ]
-    },
-    {
-      "id": "e2a6264004c2",
-      "titulo": "Desabasto de medicamentos en el IMSS: PAN propone plan de emergencia nacional - El Heraldo de Chihuahua",
-      "fuente": "El Sol de México",
-      "fecha": "2026-10-13T01:00-06:00",
-      "enlace": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNN2ZCUWxQWWp2NTZfMDhZT0cxcnYwQ1pIUFZjVlFBdkJBZm9VUTlMaEFraWt1RWdDZzB0RXA4MzNXbXZLdXN6QmpYc1R2LXM2VWRPcGZ6UXpZcWRkS3VlTG9wbl9wbDhxcWYyTWt5NGpUcmFlelE1YWI5NHhfUVZXR09kcS00Rlo4aFQ4MXJWVjQyMWkxdnM4X0xXNUl2ZUpIalBuT3dOZ3RuX3E0WG52Uk1vTzNRbkN3ck9ISkpVNno2dm52Z19hS0dKYw?oc=5",
-      "grupo": "A",
-      "categorias": [
-        "desabasto",
-        "salud general"
-      ]
-    },
-    {
-      "id": "c9ac70e93b16",
-      "titulo": "Por qué no hay medicinas en el IMSS y qué dice el Gobierno de Sheinbaum sobre el tema",
-      "fuente": "Infobae",
-      "fecha": "2026-10-13T01:00-06:00",
-      "enlace": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOTmtJLW9WZVplODYzVzFmQ0tPdTVFRWltRVhPYmRSUE9zc3BqUFN5a2w0MmxMUE1nV1ZwdWh1UlVmeUc4SklhTFduVXJUM1ZERDl2VWt0Y2dNbGhOazJCaFlGc2RLdU5UOFhpdy16R21EZXctRE8wSWNKcnhJanY5NXROYTZocEdDWE1EeUlvWlhFSmMxWHRSTkJ0VXNqb1FDYWZxT1VxQUdUNG5jN3JwVFRVN2xHdDV0b0I4M3AxV1dYakg0a3I0?oc=5",
-      "grupo": "A",
-      "categorias": [
-        "salud general"
-      ]
-    },
-    {
-      "id": "77ce141a488e",
-      "titulo": "Desabasto de medicamentos en el IMSS refleja una crisis de años: especialista",
-      "fuente": "Imagen Radio",
-      "fecha": "2026-10-13T01:00-06:00",
-      "enlace": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQUHhoOGZiVHp5cVRVcFlqYkptTGtwOEg2MU5DbEJ0dVpCOGc2emVtWHE3c0JpY0V2dk5BaHh1aHI2eHhhSk5xbFpVYVN1MEZzZms1VlEzaFdNeXFhMG5SMU1YNGN6eHB5NTJTSWk4MHdXTm1HWGk2S2Q0a1pUTUM3OW9vNkNTQi1DcnVFVWlFYnM0NTZtdnA1ZjZ6QXA5V0Z2MkHSAacBQVVfeXFMTmNqTWVfdi1HNFh2Sld3ak5DV09XTURpeE1ROHVlSDNpM1YtUVlDcmpuc3pLcGdkbFVqcDlUTFRxMGtEOEhRN0tpaG1XbE5Zcy1lbXBtRGtCY1Q2allUdXNQRWl4eHoxc0kzb2VnSi1MOHFURDRHX3gtMTNtSkJIYmRybGFmQUhmanZuWlI4UDBTazl3bkpsNEZ0dU9DT3RNV2xRTG15aU0?oc=5",
-      "grupo": "A",
-      "categorias": [
-        "desabasto",
-        "salud general"
-      ]
-    },
-    {
-      "id": "1412101618ae",
-      "titulo": "Monclova: mujer denuncia que lleva dos meses sin medicamento para la epilepsia",
-      "fuente": "vanguardia.com.mx",
-      "fecha": "2026-10-13T01:00-06:00",
-      "enlace": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQRWNjdTE3bUhzUGZOa1N5YVRacjh4Mmd2cUx4V0NZRkI2amZFbEVqR3BsWjFoLW9LQUJpZHk1S18wT0lOSjJGMWJoT0pfZ0NQLWVjVmFYVmtyWFJlZjZERXotRmljYmJUTE1HUWZnVkNaWVNhTGtUaEVMMDQ4WjlILW44N3ZrOHZlc3EwVXhqeUNERVpiLU12Q1JSazVWNlprSnE4Q2NQTlh2cGhValM4Y3NHajZ2VG9DYktod0RDYzFtRklpS005VGJ4d1M?oc=5",
-      "grupo": "B",
-      "categorias": [
-        "Monclova",
-        "desabasto",
-        "salud general"
-      ]
-    },
-    {
-      "id": "2e7190d77688",
-      "titulo": "Investigan agresión contra hombre afuera de farmacia en Real del Norte",
-      "fuente": "eltiempomx.com",
-      "fecha": "2026-10-13T01:00-06:00",
-      "enlace": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPWkhSN2RoVXFwZ2RfMmJIT0U1dmRsM2t1eFI2SEtJdHVGRHlXOGhlekxXaGNZUjhnYW81aExkRTVDTUVjZUpJeW5kOEU4R2NXMXBESzhZSF84Ujlva3BrN2pYZnl4eE9GYnpsb1gyYnJoeFJFSUxFem9PTjBRZDVVcC1acXA3OVZ6LUIydEZSZFZ6VGxjbmotTldZTVV3RlNfXzJwMVNjRnQ0VWFOZ0ZlT9IBpAFBVV95cUxPMnEyczc2VHB3dG56NDZCSHU0M3pBZ3ZzV0lyWXl1OVFsLXF4RWp1Szk1MWgyU084aU5hMk4wdHdneE45bVFBOWpSdHR2ZFhVdnUxUDZ6cjQzNnp4TkVYUkdTUWo0UnJyVHJzWVpjT1JmVFZQYldpa1BFbUxETGZIQXNLV0U1WTk1c2FtcG5UTy1mZ0VCOHRXMUJlVC1yY1lLMXZaXw?oc=5",
-      "grupo": "B",
-      "categorias": [
-        "salud general"
-      ]
-    },
-    {
-      "id": "e62819dd021a",
-      "titulo": "México inicia vacunación contra mpox",
-      "fuente": "eltiempomx.com",
-      "fecha": "2026-10-13T01:00-06:00",
-      "enlace": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNbDQ4eUs0NTVsZ3cxUy1nb2djWnRmb0sxNEh3akR3Wm91OUdyOTY5TFNIenplc2JsRlBiOVNxSTl6TWFVUFNQZk1kTmYwVlgxUFlNNzdIV3ducmdONGVyTXZIb2s4S1ZOQ2h2UUp6V3FuOEYyYmlLM1VoMlhHbmEtOUZlNNIBd0FVX3lxTFBJTjFkc1E0MmJVWTh6YklRbThwNFN1cFUzUmplSS1mWE9vb0hSTXBqVnJHTE96V0lIWWo1WmFuWEUzY1E0TEV5VWJfUFpnTEgwTmhDMk4xa2cxRkRjdldNcmF5YXltMl9VMUtJUV9xcUJoV2Z3aHB3?oc=5",
-      "grupo": "B",
-      "categorias": [
         "salud general"
       ]
     }
